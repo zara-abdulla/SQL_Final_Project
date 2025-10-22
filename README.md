@@ -145,6 +145,7 @@ Age groups 38-47 and 58-67 are below the average.
 *Visualization:* ![](Visualization/chart_1.4.png)
 
 
+
 ---
 
 ## II. Transaction Analysis
@@ -153,7 +154,11 @@ Age groups 38-47 and 58-67 are below the average.
 
 *Visualization:* ![](Visualization/chart_2.1.png)
 
-> **Analysis Result:** Analysis Result: Total transactions: 3.24M ₼ — Deposits: 1.55M ₼ (188 accounts), Withdrawals: 1.68M ₼ (205 accounts).
+> **Analysis Result:**  
+> - **Total transactions:** 3.24M ₼  
+> - **Deposits:** 1.55M ₼ (188 accounts)  
+> - **Withdrawals:** 1.68M ₼ (205 accounts)
+
 
 ---
 
@@ -162,7 +167,10 @@ Age groups 38-47 and 58-67 are below the average.
 
 *Visualization:* ![](Visualization/chart_2.2.png)
 
-> **Analysis Result:** 5–8 transactions → highest amounts. 10+ transactions → few but high-value. 1–3 transactions → many but low-value
+> **Analysis Result:**  
+> - **5–8 transactions:** highest amounts  
+> - **10+ transactions:** few but high-value  
+> - **1–3 transactions:** many but low-value
 
 ---
 
@@ -172,6 +180,13 @@ Age groups 38-47 and 58-67 are below the average.
 *Visualization:* 
 ![](Visualization/chart_2.3.png)
 ![](Visualization/chart_2.3.1.png)
+
+> **Analysis Result:**  
+> - **4–5 transactions:** highest total (~1M ₼)  
+> - **3 transactions:** balanced turnover  
+> - **1–2 transactions:** passive group, low amount  
+> - **6+ transactions:** few accounts, low per-transaction amount  
+> - **11 transactions:** many transactions, but low value
 
 ---
 
@@ -188,6 +203,10 @@ Age groups 38-47 and 58-67 are below the average.
  *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
 
 *Visualization:* ![](Visualization/chart_2.5.png)
+
+> **Analysis Result:**  
+> About **94% of customers** have their largest transaction **above the average transaction amount**.
+
 
 ---
 
