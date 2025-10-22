@@ -110,6 +110,7 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *Visualization:* ![](Visualization/chart_1.1.png) ![](Visualization/chart_1.1.1.png)
 
+
 > **Analysis Result:** Customers with a single account dominate both in number and total balance share.
 
 ---
