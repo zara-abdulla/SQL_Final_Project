@@ -140,17 +140,17 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *Visualization:* ![Chart 1](Visualization/)
 
-## **Question 3:** Accounts with the highest number of transactions.
+### **Question 3:** Accounts with the highest number of transactions.
 *SQL Script:* [Task 3](Scripts/task_2.3.sql)  
 
 *Visualization:* ![Chart 1](Visualization/)
 
-## **Question 4:** Distribution of transaction types (Deposit, Withdrawal, Transfer).
-### *SQL Script:* [Task 4](Scripts/task_2.4.sql)  
+### **Question 4:** Distribution of transaction types (Deposit, Withdrawal, Transfer).
+*SQL Script:* [Task 4](Scripts/task_2.4.sql)  
 
 *Visualization:* ![Chart 1](Visualization/)
 
-## **Question 5:** Largest transaction per customer compared to average transaction.
- ### *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
+### **Question 5:** Largest transaction per customer compared to average transaction.
+ *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
 
 *Visualization:* ![Chart 1](Visualization/)

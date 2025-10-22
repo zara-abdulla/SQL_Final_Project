@@ -1,4 +1,4 @@
---1.Hər müştərinin neçə aktiv hesabı var və balans cəmi nə qədərdir.
+--Number of active accounts per customer and total balance 
 SELECT 
     customer_id,
     COUNT(account_id) AS active_account_count,
@@ -7,3 +7,4 @@ FROM accounts
 WHERE status = 'Active'
 GROUP BY customer_id
 ORDER BY customer_id;
+
