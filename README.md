@@ -149,7 +149,6 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *Visualization:* 
 ![](Visualization/chart_2.3.png)
-
 ![](Visualization/chart_2.3.1.png)
 
 ---
@@ -159,7 +158,6 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *Visualization:* 
 ![](Visualization/chart_2.4.png)
-
 ![](Visualization/chart_2.4.1.png)
 
 ---
