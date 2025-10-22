@@ -133,27 +133,37 @@ This project focuses on analyzing and visualizing banking data to provide action
 ### **Question 1:** Total deposits and withdrawals per account.
 *SQL Script:* [Task 1](Scripts/task_2.1.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_2.1.png)
+
+---
 
 ### **Question 2:** Number of transactions and total amount per customer.
 *SQL Script:* [Task 2](Scripts/task_2.2.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_2.2.png)
+
+---
 
 ### **Question 3:** Accounts with the highest number of transactions.
 *SQL Script:* [Task 3](Scripts/task_2.3.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_2.3.png)
+![](Visualization/chart_2.3.1.png)
+
+---
 
 ### **Question 4:** Distribution of transaction types (Deposit, Withdrawal, Transfer).
 *SQL Script:* [Task 4](Scripts/task_2.4.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_2.4.png)
+![](Visualization/chart_2.4.1.png)
+
+---
 
 ### **Question 5:** Largest transaction per customer compared to average transaction.
  *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_2.5.png)
 
 ---
 
