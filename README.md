@@ -41,7 +41,7 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 ## Dataset
 You can access the dataset used in this project:
-[Download Bank Analysis Dataset](/workspaces/SQL_Final_Project/Datasets)
+[Download Bank Analysis Dataset](Datasets)
 
 
 
