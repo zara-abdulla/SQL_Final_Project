@@ -1,0 +1,1001 @@
+transaction_id,account_id,transaction_date,transaction_type,amount,description
+1,71,11/01/2018,Transfer,9779.33,Eyni bank daxilinde diger hesab
+2,81,13/04/2020,Transfer,9350.97,Xarici bank hesabina köçürmesi
+3,244,04/09/2020,Transfer,2002.57,Mobil banking vasitesile transfer
+4,148,20/10/2019,Transfer,6462.52,Eyni bank daxilinde diger hesab
+5,46,28/08/2021,Transfer,2329.88,Mobil banking vasitesile transfer
+6,20,14/02/2023,Deposit,4184.67,Nagd pul depozit
+7,91,28/03/2023,Deposit,9971.75,Maas köçürmesi
+8,204,02/06/2022,Withdrawal,1871.25,ATM cixarisi
+9,149,01/12/2022,Deposit,102.58,Online ödenisin hesabda görünmesi
+10,291,19/05/2021,Deposit,9285.26,POS vasitesile pul daxilolmasi
+11,172,06/08/2019,Withdrawal,9891.1,Filial kassasindan pul götürme
+12,279,09/12/2020,Withdrawal,8893.71,Odenis terminallarindan naglasdirma
+13,69,09/10/2022,Transfer,4685.53,Online bank hesablar arasinda pul köçürmesi
+14,99,15/07/2022,Deposit,3313.53,Online ödenisin hesabda görünmesi
+15,235,20/08/2021,Withdrawal,7188.8,POS-dan nagd pul çixarilmasi
+16,8,17/02/2022,Withdrawal,7909.77,POS-dan nagd pul çixarilmasi
+17,291,13/10/2021,Deposit,1763.19,Maas köçürmesi
+18,208,21/08/2022,Withdrawal,5157.65,Cheque (çek) ile pul çixarilmasi
+19,45,31/03/2020,Transfer,962.9,Online bank hesablar arasinda pul köçürmesi
+20,72,04/09/2020,Withdrawal,9358.9,ATM cixarisi
+21,4,19/06/2019,Withdrawal,2362.86,ATM cixarisi
+22,137,08/05/2023,Withdrawal,3026.44,ATM cixarisi
+23,294,24/01/2018,Withdrawal,6540.3,Odenis terminallarindan naglasdirma
+24,121,08/05/2018,Transfer,1191.07,Eyni bank daxilinde diger hesab
+25,158,24/11/2018,Withdrawal,6863.88,ATM cixarisi
+26,160,14/11/2021,Deposit,6390.73,Nagd pul depozit
+27,152,23/01/2020,Transfer,2216.28,Eyni bank daxilinde diger hesab
+28,69,06/09/2020,Deposit,4555.24,Bank transferi (diger hesabdan)
+29,192,01/05/2020,Transfer,5496.85,Avtomatik odenis transferi
+30,242,01/04/2022,Transfer,8021.93,Online bank hesablar arasinda pul köçürmesi
+31,112,10/04/2022,Deposit,6806.62,Nagd pul depozit
+32,42,12/12/2020,Withdrawal,5286.45,Filial kassasindan pul götürme
+33,186,09/06/2018,Transfer,1130.97,Eyni bank daxilinde diger hesab
+34,281,24/01/2023,Transfer,2029.55,Eyni bank daxilinde diger hesab
+35,275,03/11/2018,Deposit,3287.9,POS vasitesile pul daxilolmasi
+36,267,23/06/2020,Deposit,6806.15,Nagd pul depozit
+37,299,28/09/2020,Deposit,8989.9,Maas köçürmesi
+38,229,15/07/2022,Deposit,4539.79,Bank transferi (diger hesabdan)
+39,263,30/04/2020,Withdrawal,5643.47,Odenis terminallarindan naglasdirma
+40,287,04/08/2020,Transfer,8071.08,Xarici bank hesabina köçürmesi
+41,12,21/03/2020,Withdrawal,8166.37,POS-dan nagd pul çixarilmasi
+42,112,30/03/2021,Deposit,462.45,Maas köçürmesi
+43,177,05/12/2021,Deposit,5416.22,Bank transferi (diger hesabdan)
+44,31,30/03/2023,Deposit,9861.51,Online ödenisin hesabda görünmesi
+45,242,06/03/2018,Withdrawal,4094.58,POS-dan nagd pul çixarilmasi
+46,70,18/04/2022,Transfer,9783.55,Mobil banking vasitesile transfer
+47,216,06/02/2020,Withdrawal,4490.89,Cheque (çek) ile pul çixarilmasi
+48,194,09/02/2020,Deposit,6830.48,Bank transferi (diger hesabdan)
+49,277,30/09/2018,Transfer,8604.26,Mobil banking vasitesile transfer
+50,61,01/01/2019,Transfer,3936.66,Online bank hesablar arasinda pul köçürmesi
+51,66,30/01/2022,Deposit,8349.87,Nagd pul depozit
+52,12,04/09/2019,Withdrawal,6738.26,ATM cixarisi
+53,279,18/05/2020,Transfer,3798.97,Online bank hesablar arasinda pul köçürmesi
+54,118,22/05/2019,Withdrawal,3468.14,ATM cixarisi
+55,142,22/01/2019,Transfer,7657.24,Eyni bank daxilinde diger hesab
+56,17,16/07/2022,Transfer,4198.21,Eyni bank daxilinde diger hesab
+57,9,08/05/2019,Deposit,682.24,Maas köçürmesi
+58,18,03/07/2020,Transfer,6723.52,Avtomatik odenis transferi
+59,25,17/05/2019,Transfer,451.92,Online bank hesablar arasinda pul köçürmesi
+60,225,25/04/2019,Transfer,2180.52,Eyni bank daxilinde diger hesab
+61,29,14/10/2018,Transfer,9934.9,Eyni bank daxilinde diger hesab
+62,120,29/07/2022,Transfer,5765.34,Xarici bank hesabina köçürmesi
+63,296,09/05/2021,Transfer,8185.64,Mobil banking vasitesile transfer
+64,122,11/09/2019,Deposit,9857.1,Online ödenisin hesabda görünmesi
+65,267,29/03/2019,Withdrawal,3012,ATM cixarisi
+66,32,14/02/2021,Transfer,8798.34,Mobil banking vasitesile transfer
+67,90,06/07/2021,Transfer,4277.73,Online bank hesablar arasinda pul köçürmesi
+68,254,07/04/2018,Withdrawal,9416.45,Odenis terminallarindan naglasdirma
+69,196,29/05/2022,Transfer,3194.16,Online bank hesablar arasinda pul köçürmesi
+70,214,16/04/2020,Deposit,3005.89,POS vasitesile pul daxilolmasi
+71,95,26/03/2022,Transfer,4740.45,Eyni bank daxilinde diger hesab
+72,116,08/09/2019,Transfer,1452.07,Eyni bank daxilinde diger hesab
+73,238,17/02/2023,Deposit,5628.24,Bank transferi (diger hesabdan)
+74,214,15/02/2021,Transfer,1349.59,Avtomatik odenis transferi
+75,125,07/06/2019,Deposit,3309.33,POS vasitesile pul daxilolmasi
+76,41,04/03/2023,Withdrawal,8472.86,ATM cixarisi
+77,48,01/01/2021,Transfer,8295.77,Online bank hesablar arasinda pul köçürmesi
+78,27,04/07/2019,Withdrawal,6739.98,Filial kassasindan pul götürme
+79,21,25/11/2022,Deposit,1889.75,Online ödenisin hesabda görünmesi
+80,287,21/03/2019,Withdrawal,2096.8,Odenis terminallarindan naglasdirma
+81,171,13/09/2019,Deposit,2125.96,Nagd pul depozit
+82,98,25/05/2023,Transfer,1181.99,Eyni bank daxilinde diger hesab
+83,246,16/02/2023,Deposit,6959.31,Bank transferi (diger hesabdan)
+84,105,23/03/2020,Deposit,5525.27,Online ödenisin hesabda görünmesi
+85,145,19/02/2020,Withdrawal,5341.16,POS-dan nagd pul çixarilmasi
+86,184,24/09/2019,Withdrawal,3602.85,POS-dan nagd pul çixarilmasi
+87,255,12/08/2020,Deposit,8030.14,Maas köçürmesi
+88,241,09/04/2022,Withdrawal,9144.16,Cheque (çek) ile pul çixarilmasi
+89,190,03/10/2019,Withdrawal,466.7,ATM cixarisi
+90,114,27/02/2022,Deposit,172.04,POS vasitesile pul daxilolmasi
+91,284,30/03/2023,Transfer,5795.64,Eyni bank daxilinde diger hesab
+92,214,28/08/2019,Deposit,1969.96,Maas köçürmesi
+93,118,17/02/2020,Transfer,8335.29,Xarici bank hesabina köçürmesi
+94,256,01/02/2021,Transfer,9435.21,Mobil banking vasitesile transfer
+95,173,12/06/2019,Withdrawal,9665.42,ATM cixarisi
+96,252,01/08/2020,Deposit,7330.39,Nagd pul depozit
+97,181,13/12/2018,Deposit,7205.93,Maas köçürmesi
+98,251,12/01/2019,Transfer,9903.33,Mobil banking vasitesile transfer
+99,31,09/12/2020,Deposit,8392.29,Online ödenisin hesabda görünmesi
+100,39,20/04/2023,Transfer,494.66,Online bank hesablar arasinda pul köçürmesi
+101,4,24/04/2020,Deposit,8427.02,Nagd pul depozit
+102,119,20/05/2018,Transfer,1518.79,Online bank hesablar arasinda pul köçürmesi
+103,112,01/11/2020,Withdrawal,3738.27,ATM cixarisi
+104,248,12/09/2021,Withdrawal,167.16,Odenis terminallarindan naglasdirma
+105,273,03/02/2021,Withdrawal,128.39,ATM cixarisi
+106,272,19/01/2022,Withdrawal,5362.02,Filial kassasindan pul götürme
+107,147,05/02/2018,Transfer,8133.44,Eyni bank daxilinde diger hesab
+108,221,10/07/2022,Deposit,1079.09,Bank transferi (diger hesabdan)
+109,50,09/12/2020,Deposit,2417.28,Online ödenisin hesabda görünmesi
+110,270,01/06/2019,Withdrawal,2680.57,Odenis terminallarindan naglasdirma
+111,204,11/06/2018,Withdrawal,9593.38,POS-dan nagd pul çixarilmasi
+112,236,03/03/2021,Deposit,9902.43,Maas köçürmesi
+113,116,07/09/2019,Transfer,8282.34,Eyni bank daxilinde diger hesab
+114,42,31/08/2021,Transfer,7598.26,Avtomatik odenis transferi
+115,48,10/04/2020,Withdrawal,3777.92,POS-dan nagd pul çixarilmasi
+116,244,25/04/2018,Transfer,104.41,Online bank hesablar arasinda pul köçürmesi
+117,88,19/06/2018,Withdrawal,8454.84,Cheque (çek) ile pul çixarilmasi
+118,170,04/03/2021,Deposit,8948.96,Bank transferi (diger hesabdan)
+119,22,16/04/2019,Deposit,9013.72,Online ödenisin hesabda görünmesi
+120,291,31/08/2020,Withdrawal,475.15,ATM cixarisi
+121,39,02/11/2021,Withdrawal,8994.12,ATM cixarisi
+122,289,09/09/2021,Deposit,1801.75,Maas köçürmesi
+123,162,02/02/2018,Deposit,5874.49,Bank transferi (diger hesabdan)
+124,204,18/03/2023,Deposit,2999.78,Online ödenisin hesabda görünmesi
+125,289,08/05/2019,Transfer,8348.16,Eyni bank daxilinde diger hesab
+126,200,18/10/2021,Transfer,3323.98,Eyni bank daxilinde diger hesab
+127,72,07/06/2022,Transfer,7244.39,Xarici bank hesabina köçürmesi
+128,257,07/03/2022,Withdrawal,546.43,ATM cixarisi
+129,224,21/04/2019,Deposit,3412.52,Online ödenisin hesabda görünmesi
+130,204,08/06/2023,Withdrawal,305.96,Odenis terminallarindan naglasdirma
+131,140,24/05/2022,Withdrawal,4911.13,ATM cixarisi
+132,183,06/02/2021,Withdrawal,4324.16,Filial kassasindan pul götürme
+133,300,15/09/2021,Withdrawal,866.08,Odenis terminallarindan naglasdirma
+134,152,23/06/2022,Deposit,7133.95,Online ödenisin hesabda görünmesi
+135,43,03/07/2019,Deposit,3806.2,POS vasitesile pul daxilolmasi
+136,79,23/02/2022,Withdrawal,3173.62,POS-dan nagd pul çixarilmasi
+137,55,07/07/2018,Deposit,9430.17,Maas köçürmesi
+138,228,08/01/2020,Withdrawal,1031.29,POS-dan nagd pul çixarilmasi
+139,45,19/01/2019,Withdrawal,4493.95,Cheque (çek) ile pul çixarilmasi
+140,285,15/11/2020,Withdrawal,1041.9,ATM cixarisi
+141,46,26/12/2019,Transfer,939.71,Mobil banking vasitesile transfer
+142,167,04/11/2022,Withdrawal,133.28,ATM cixarisi
+143,212,05/03/2020,Deposit,7251.19,Bank transferi (diger hesabdan)
+144,287,28/01/2023,Deposit,5723.88,Online ödenisin hesabda görünmesi
+145,87,04/11/2021,Withdrawal,1703.32,ATM cixarisi
+146,138,09/09/2019,Withdrawal,4936.31,Odenis terminallarindan naglasdirma
+147,33,09/12/2018,Withdrawal,2766.86,ATM cixarisi
+148,154,18/09/2020,Deposit,3617.64,Bank transferi (diger hesabdan)
+149,127,16/01/2022,Transfer,4963.07,Mobil banking vasitesile transfer
+150,101,26/07/2020,Deposit,1363.54,POS vasitesile pul daxilolmasi
+151,4,28/04/2023,Withdrawal,3328.85,Filial kassasindan pul götürme
+152,195,05/07/2022,Withdrawal,4407.83,Odenis terminallarindan naglasdirma
+153,221,29/07/2022,Transfer,9742.51,Online bank hesablar arasinda pul köçürmesi
+154,70,08/09/2019,Withdrawal,6036.08,POS-dan nagd pul çixarilmasi
+155,103,08/09/2020,Withdrawal,1784.6,POS-dan nagd pul çixarilmasi
+156,204,07/06/2023,Withdrawal,2921.57,Cheque (çek) ile pul çixarilmasi
+157,252,05/06/2023,Transfer,7821.92,Online bank hesablar arasinda pul köçürmesi
+158,167,10/02/2020,Withdrawal,8166.78,ATM cixarisi
+159,202,18/01/2020,Deposit,9321.35,Online ödenisin hesabda görünmesi
+160,103,27/04/2021,Transfer,1807.47,Eyni bank daxilinde diger hesab
+161,282,25/02/2018,Transfer,4621.61,Eyni bank daxilinde diger hesab
+162,108,16/06/2020,Withdrawal,8314.51,ATM cixarisi
+163,36,05/08/2022,Withdrawal,6733.05,ATM cixarisi
+164,72,21/07/2021,Withdrawal,2427.79,Odenis terminallarindan naglasdirma
+165,79,04/01/2022,Withdrawal,7892.88,ATM cixarisi
+166,38,08/07/2020,Transfer,4797.55,Avtomatik odenis transferi
+167,206,30/12/2020,Transfer,9235.72,Online bank hesablar arasinda pul köçürmesi
+168,215,18/01/2021,Deposit,7909.3,Bank transferi (diger hesabdan)
+169,185,07/12/2021,Transfer,5942.26,Eyni bank daxilinde diger hesab
+170,44,12/08/2018,Deposit,6579.44,POS vasitesile pul daxilolmasi
+171,182,07/12/2018,Transfer,6130.65,Eyni bank daxilinde diger hesab
+172,289,14/08/2021,Transfer,6470.97,Xarici bank hesabina köçürmesi
+173,170,01/06/2023,Withdrawal,1068.39,Filial kassasindan pul götürme
+174,51,14/06/2019,Deposit,5111.66,Online ödenisin hesabda görünmesi
+175,266,16/02/2021,Transfer,6879.77,Mobil banking vasitesile transfer
+176,114,01/07/2020,Withdrawal,3917.43,Odenis terminallarindan naglasdirma
+177,257,05/11/2018,Withdrawal,9977.05,POS-dan nagd pul çixarilmasi
+178,248,03/08/2018,Withdrawal,4165.59,POS-dan nagd pul çixarilmasi
+179,44,26/08/2018,Transfer,1425.34,Mobil banking vasitesile transfer
+180,160,04/12/2019,Withdrawal,7844.86,Cheque (çek) ile pul çixarilmasi
+181,267,16/09/2020,Withdrawal,4766.86,ATM cixarisi
+182,225,18/01/2022,Transfer,4529.95,Online bank hesablar arasinda pul köçürmesi
+183,35,07/09/2019,Deposit,8103.76,Bank transferi (diger hesabdan)
+184,59,16/02/2018,Withdrawal,6483.22,ATM cixarisi
+185,85,20/03/2023,Transfer,2446.69,Online bank hesablar arasinda pul köçürmesi
+186,90,04/02/2021,Deposit,3316.59,Nagd pul depozit
+187,219,17/05/2023,Withdrawal,2326.24,ATM cixarisi
+188,208,13/07/2021,Deposit,1872.01,Bank transferi (diger hesabdan)
+189,222,21/03/2020,Deposit,7376.51,Online ödenisin hesabda görünmesi
+190,102,09/07/2020,Transfer,4301.23,Eyni bank daxilinde diger hesab
+191,3,14/12/2021,Deposit,2065.79,Nagd pul depozit
+192,33,28/03/2021,Deposit,7997.03,Maas köçürmesi
+193,275,18/01/2019,Withdrawal,3266.59,Odenis terminallarindan naglasdirma
+194,235,22/08/2018,Withdrawal,6710.31,ATM cixarisi
+195,251,16/12/2020,Transfer,3140.91,Eyni bank daxilinde diger hesab
+196,199,05/06/2021,Withdrawal,5874.18,Filial kassasindan pul götürme
+197,179,22/12/2019,Withdrawal,6177.45,Odenis terminallarindan naglasdirma
+198,153,25/02/2023,Transfer,5905.78,Avtomatik odenis transferi
+199,69,04/10/2019,Deposit,2393.34,Online ödenisin hesabda görünmesi
+200,60,10/01/2019,Withdrawal,6937.43,POS-dan nagd pul çixarilmasi
+201,262,06/03/2020,Withdrawal,5968.29,POS-dan nagd pul çixarilmasi
+202,295,25/02/2020,Withdrawal,1865.68,Cheque (çek) ile pul çixarilmasi
+203,276,21/11/2021,Transfer,9307.64,Online bank hesablar arasinda pul köçürmesi
+204,89,10/02/2021,Deposit,4901.52,Online ödenisin hesabda görünmesi
+205,72,19/01/2019,Withdrawal,8421.43,ATM cixarisi
+206,28,08/11/2022,Withdrawal,9518.9,ATM cixarisi
+207,249,07/10/2018,Deposit,8154.01,Maas köçürmesi
+208,288,01/11/2020,Transfer,4954.75,Eyni bank daxilinde diger hesab
+209,252,01/05/2020,Transfer,8400.52,Eyni bank daxilinde diger hesab
+210,251,09/12/2018,Deposit,5658.32,POS vasitesile pul daxilolmasi
+211,113,22/08/2019,Deposit,2755.78,Nagd pul depozit
+212,276,15/08/2019,Deposit,7809.59,Maas köçürmesi
+213,290,01/03/2022,Withdrawal,5501.76,ATM cixarisi
+214,58,18/03/2021,Deposit,2686.21,Online ödenisin hesabda görünmesi
+215,279,14/08/2022,Withdrawal,5425.01,Odenis terminallarindan naglasdirma
+216,22,06/04/2022,Transfer,4419.25,Xarici bank hesabina köçürmesi
+217,112,20/05/2020,Deposit,7362.53,Maas köçürmesi
+218,127,02/09/2019,Deposit,4502.83,Bank transferi (diger hesabdan)
+219,179,01/11/2022,Deposit,4396.31,Online ödenisin hesabda görünmesi
+220,61,08/05/2022,Deposit,2106.68,POS vasitesile pul daxilolmasi
+221,180,30/10/2022,Transfer,6106.52,Mobil banking vasitesile transfer
+222,220,06/12/2018,Transfer,1400.96,Mobil banking vasitesile transfer
+223,106,25/07/2022,Deposit,8056.35,Bank transferi (diger hesabdan)
+224,292,20/12/2019,Transfer,2818.04,Online bank hesablar arasinda pul köçürmesi
+225,276,11/12/2018,Withdrawal,9790.21,ATM cixarisi
+226,150,16/08/2019,Transfer,2680.76,Online bank hesablar arasinda pul köçürmesi
+227,264,18/01/2023,Transfer,8153.66,Eyni bank daxilinde diger hesab
+228,70,26/05/2023,Withdrawal,9188.5,Filial kassasindan pul götürme
+229,142,11/11/2022,Transfer,1277.61,Eyni bank daxilinde diger hesab
+230,68,27/05/2019,Deposit,7116.83,POS vasitesile pul daxilolmasi
+231,127,09/04/2022,Transfer,3933.08,Avtomatik odenis transferi
+232,73,28/03/2021,Transfer,2694.48,Online bank hesablar arasinda pul köçürmesi
+233,213,08/02/2020,Withdrawal,764.41,Odenis terminallarindan naglasdirma
+234,48,05/04/2020,Transfer,7500.53,Eyni bank daxilinde diger hesab
+235,189,20/07/2020,Withdrawal,3279.62,POS-dan nagd pul çixarilmasi
+236,2,15/11/2022,Transfer,940.49,Eyni bank daxilinde diger hesab
+237,235,24/07/2021,Transfer,6975.92,Xarici bank hesabina köçürmesi
+238,33,18/06/2022,Transfer,3983.18,Mobil banking vasitesile transfer
+239,220,17/08/2022,Deposit,4952.2,Online ödenisin hesabda görünmesi
+240,166,24/08/2022,Withdrawal,3384.17,POS-dan nagd pul çixarilmasi
+241,296,25/09/2018,Transfer,8525.7,Mobil banking vasitesile transfer
+242,176,06/01/2023,Transfer,7624.92,Online bank hesablar arasinda pul köçürmesi
+243,24,23/07/2018,Transfer,7841.06,Online bank hesablar arasinda pul köçürmesi
+244,236,03/02/2018,Deposit,9295.03,Online ödenisin hesabda görünmesi
+245,81,22/06/2020,Withdrawal,16.75,Cheque (çek) ile pul çixarilmasi
+246,220,19/02/2019,Transfer,9094.98,Eyni bank daxilinde diger hesab
+247,155,22/11/2018,Withdrawal,942.47,ATM cixarisi
+248,185,28/05/2019,Deposit,3724.72,Bank transferi (diger hesabdan)
+249,85,17/04/2018,Withdrawal,6259.79,ATM cixarisi
+250,120,29/05/2020,Transfer,921.08,Eyni bank daxilinde diger hesab
+251,49,03/01/2018,Deposit,4773.3,Nagd pul depozit
+252,68,30/04/2021,Deposit,5199.25,Maas köçürmesi
+253,228,20/01/2018,Deposit,6959.02,Bank transferi (diger hesabdan)
+254,62,28/10/2022,Withdrawal,6943.37,ATM cixarisi
+255,245,26/05/2018,Deposit,3836.87,POS vasitesile pul daxilolmasi
+256,53,31/07/2018,Withdrawal,3681.94,Odenis terminallarindan naglasdirma
+257,154,08/10/2018,Withdrawal,7736.87,ATM cixarisi
+258,69,06/08/2021,Transfer,1437.1,Avtomatik odenis transferi
+259,272,27/02/2021,Deposit,6107.09,Online ödenisin hesabda görünmesi
+260,85,20/06/2020,Withdrawal,7227.1,Filial kassasindan pul götürme
+261,78,27/02/2023,Withdrawal,6164.6,Odenis terminallarindan naglasdirma
+262,227,28/10/2022,Deposit,876.01,Maas köçürmesi
+263,52,14/10/2018,Deposit,5899.84,Bank transferi (diger hesabdan)
+264,197,21/12/2019,Withdrawal,3151.89,POS-dan nagd pul çixarilmasi
+265,72,23/05/2019,Withdrawal,6449.76,POS-dan nagd pul çixarilmasi
+266,128,07/02/2021,Transfer,6004.08,Online bank hesablar arasinda pul köçürmesi
+267,146,15/05/2022,Transfer,277.98,Eyni bank daxilinde diger hesab
+268,155,25/02/2019,Transfer,6073.2,Eyni bank daxilinde diger hesab
+269,97,12/03/2022,Withdrawal,2962.47,Cheque (çek) ile pul çixarilmasi
+270,28,25/05/2022,Deposit,4953.93,POS vasitesile pul daxilolmasi
+271,58,09/05/2019,Withdrawal,6384.44,ATM cixarisi
+272,37,17/12/2020,Deposit,9868.96,Maas köçürmesi
+273,163,28/09/2018,Withdrawal,8609.53,ATM cixarisi
+274,292,11/05/2020,Withdrawal,5468.1,ATM cixarisi
+275,89,12/04/2022,Withdrawal,9544.99,Odenis terminallarindan naglasdirma
+276,38,04/02/2018,Transfer,684.65,Xarici bank hesabina köçürmesi
+277,135,18/03/2019,Deposit,9226.57,Maas köçürmesi
+278,204,03/11/2020,Withdrawal,6289.42,ATM cixarisi
+279,257,21/04/2022,Withdrawal,4241.52,Filial kassasindan pul götürme
+280,206,18/06/2018,Transfer,5370.28,Mobil banking vasitesile transfer
+281,79,23/07/2019,Deposit,3105.97,Nagd pul depozit
+282,262,02/03/2023,Deposit,9743.39,Maas köçürmesi
+283,80,03/01/2021,Withdrawal,3913.41,Odenis terminallarindan naglasdirma
+284,34,28/09/2019,Transfer,4380.49,Mobil banking vasitesile transfer
+285,123,29/04/2018,Deposit,871.27,POS vasitesile pul daxilolmasi
+286,223,26/08/2018,Withdrawal,6126.84,POS-dan nagd pul çixarilmasi
+287,29,26/09/2019,Transfer,7419.52,Online bank hesablar arasinda pul köçürmesi
+288,90,02/09/2018,Deposit,7081.93,Bank transferi (diger hesabdan)
+289,6,02/12/2018,Withdrawal,9530.63,POS-dan nagd pul çixarilmasi
+290,268,25/11/2020,Transfer,2599.88,Online bank hesablar arasinda pul köçürmesi
+291,191,17/09/2018,Transfer,7813.43,Eyni bank daxilinde diger hesab
+292,138,10/02/2022,Deposit,7716.59,Maas köçürmesi
+293,16,18/11/2019,Withdrawal,2727.09,Cheque (çek) ile pul çixarilmasi
+294,33,23/06/2019,Transfer,9750.76,Eyni bank daxilinde diger hesab
+295,40,13/10/2020,Withdrawal,5112.71,ATM cixarisi
+296,29,20/10/2020,Transfer,1677.15,Avtomatik odenis transferi
+297,81,07/06/2019,Deposit,8943.74,Maas köçürmesi
+298,60,13/04/2019,Transfer,5093.16,Online bank hesablar arasinda pul köçürmesi
+299,23,25/10/2022,Deposit,2453.07,Online ödenisin hesabda görünmesi
+300,242,16/01/2020,Withdrawal,9203.06,ATM cixarisi
+301,92,23/03/2023,Deposit,5533.12,Nagd pul depozit
+302,215,05/04/2019,Withdrawal,2490.15,ATM cixarisi
+303,164,10/07/2019,Deposit,5719.64,Bank transferi (diger hesabdan)
+304,62,25/10/2020,Transfer,9020.39,Eyni bank daxilinde diger hesab
+305,92,03/04/2019,Transfer,9814.32,Eyni bank daxilinde diger hesab
+306,206,22/05/2018,Withdrawal,8661.66,Odenis terminallarindan naglasdirma
+307,160,02/11/2019,Deposit,5535.38,Maas köçürmesi
+308,5,26/01/2020,Deposit,2923.03,Bank transferi (diger hesabdan)
+309,156,23/02/2022,Transfer,2433.41,Xarici bank hesabina köçürmesi
+310,189,26/04/2021,Withdrawal,9977.89,ATM cixarisi
+311,101,09/02/2022,Transfer,7607.22,Mobil banking vasitesile transfer
+312,126,05/11/2018,Deposit,9324.65,Maas köçürmesi
+313,13,23/04/2019,Transfer,3470.77,Mobil banking vasitesile transfer
+314,5,02/05/2023,Withdrawal,24.61,Filial kassasindan pul götürme
+315,193,05/10/2022,Transfer,7274.88,Online bank hesablar arasinda pul köçürmesi
+316,54,25/02/2019,Transfer,9831.33,Online bank hesablar arasinda pul köçürmesi
+317,215,04/10/2020,Deposit,9725.87,Maas köçürmesi
+318,73,28/12/2021,Withdrawal,939.34,Odenis terminallarindan naglasdirma
+319,119,12/01/2023,Transfer,4136.44,Eyni bank daxilinde diger hesab
+320,191,27/07/2020,Transfer,858.18,Eyni bank daxilinde diger hesab
+321,49,01/11/2020,Deposit,6375.78,Nagd pul depozit
+322,202,03/06/2018,Transfer,5682.53,Avtomatik odenis transferi
+323,223,18/09/2021,Deposit,2375.35,Bank transferi (diger hesabdan)
+324,134,09/10/2022,Withdrawal,9261.16,POS-dan nagd pul çixarilmasi
+325,202,06/12/2021,Transfer,3269.25,Online bank hesablar arasinda pul köçürmesi
+326,232,11/07/2019,Deposit,756.13,Nagd pul depozit
+327,104,06/10/2018,Transfer,1098.64,Eyni bank daxilinde diger hesab
+328,55,03/12/2018,Withdrawal,4665.89,POS-dan nagd pul çixarilmasi
+329,209,05/09/2018,Transfer,3589.29,Eyni bank daxilinde diger hesab
+330,107,14/07/2020,Withdrawal,4638.83,Cheque (çek) ile pul çixarilmasi
+331,62,05/07/2018,Deposit,8077.89,Nagd pul depozit
+332,156,20/08/2022,Transfer,6971.81,Xarici bank hesabina köçürmesi
+333,21,17/03/2019,Withdrawal,1491.75,ATM cixarisi
+334,128,07/06/2023,Withdrawal,3968.48,ATM cixarisi
+335,26,18/10/2021,Withdrawal,2609.07,ATM cixarisi
+336,90,05/03/2018,Withdrawal,8547.47,Odenis terminallarindan naglasdirma
+337,285,13/03/2022,Transfer,2506.03,Mobil banking vasitesile transfer
+338,237,28/07/2018,Deposit,1223.32,Bank transferi (diger hesabdan)
+339,32,28/08/2022,Deposit,1315.85,Online ödenisin hesabda görünmesi
+340,206,02/02/2020,Transfer,6306.67,Mobil banking vasitesile transfer
+341,44,07/04/2021,Transfer,2595.62,Online bank hesablar arasinda pul köçürmesi
+342,39,14/02/2018,Deposit,1985.53,Maas köçürmesi
+343,228,16/07/2022,Deposit,928.87,Bank transferi (diger hesabdan)
+344,170,08/09/2018,Deposit,9423.38,Online ödenisin hesabda görünmesi
+345,26,11/12/2018,Transfer,4337.23,Online bank hesablar arasinda pul köçürmesi
+346,203,13/10/2020,Deposit,3833.47,Nagd pul depozit
+347,219,20/12/2018,Withdrawal,2155.01,ATM cixarisi
+348,96,18/07/2019,Withdrawal,4465.65,Filial kassasindan pul götürme
+349,77,12/03/2018,Transfer,6195.57,Eyni bank daxilinde diger hesab
+350,126,18/08/2021,Withdrawal,4993.93,Odenis terminallarindan naglasdirma
+351,282,08/09/2020,Deposit,886.34,Nagd pul depozit
+352,197,09/10/2018,Withdrawal,2002.58,POS-dan nagd pul çixarilmasi
+353,270,26/05/2019,Transfer,9940.93,Eyni bank daxilinde diger hesab
+354,279,16/06/2022,Deposit,9894.14,Online ödenisin hesabda görünmesi
+355,184,09/09/2020,Transfer,7816.54,Avtomatik odenis transferi
+356,177,13/02/2023,Transfer,5028.91,Online bank hesablar arasinda pul köçürmesi
+357,199,08/07/2019,Deposit,270.37,Maas köçürmesi
+358,113,02/03/2018,Withdrawal,595.33,POS-dan nagd pul çixarilmasi
+359,242,20/12/2020,Withdrawal,7670.75,Cheque (çek) ile pul çixarilmasi
+360,120,18/06/2023,Deposit,1010.34,POS vasitesile pul daxilolmasi
+361,124,30/06/2019,Transfer,8164.69,Eyni bank daxilinde diger hesab
+362,29,14/04/2022,Deposit,5761.16,Maas köçürmesi
+363,199,28/12/2019,Deposit,1769.24,Bank transferi (diger hesabdan)
+364,163,10/07/2022,Transfer,6979.29,Eyni bank daxilinde diger hesab
+365,15,11/12/2021,Transfer,3523.3,Xarici bank hesabina köçürmesi
+366,291,28/02/2021,Deposit,5635.46,Nagd pul depozit
+367,97,10/09/2022,Withdrawal,5425.82,ATM cixarisi
+368,90,01/10/2020,Deposit,911.67,Bank transferi (diger hesabdan)
+369,120,17/05/2021,Deposit,209.08,Online ödenisin hesabda görünmesi
+370,245,02/01/2018,Withdrawal,9179.78,ATM cixarisi
+371,104,10/07/2022,Deposit,3414.18,Nagd pul depozit
+372,91,25/02/2023,Withdrawal,604.96,ATM cixarisi
+373,76,16/04/2021,Transfer,9173.07,Mobil banking vasitesile transfer
+374,57,30/09/2022,Transfer,8608.09,Mobil banking vasitesile transfer
+375,38,05/02/2020,Transfer,9419.81,Online bank hesablar arasinda pul köçürmesi
+376,203,15/04/2021,Deposit,3372.25,Nagd pul depozit
+377,166,07/10/2018,Deposit,7326.2,Maas köçürmesi
+378,224,10/06/2022,Transfer,9607.01,Online bank hesablar arasinda pul köçürmesi
+379,163,23/12/2018,Transfer,9687.74,Eyni bank daxilinde diger hesab
+380,183,03/04/2019,Transfer,5893.61,Eyni bank daxilinde diger hesab
+381,90,14/02/2020,Withdrawal,7342.61,Odenis terminallarindan naglasdirma
+382,151,18/09/2018,Deposit,7291.02,Maas köçürmesi
+383,294,12/03/2020,Transfer,333.5,Avtomatik odenis transferi
+384,163,02/03/2023,Transfer,2216.74,Online bank hesablar arasinda pul köçürmesi
+385,290,02/08/2018,Withdrawal,1415.03,ATM cixarisi
+386,40,03/05/2019,Withdrawal,9823.97,Filial kassasindan pul götürme
+387,86,26/07/2021,Deposit,8218.4,Maas köçürmesi
+388,172,03/07/2020,Deposit,2659.47,Bank transferi (diger hesabdan)
+389,128,20/11/2021,Deposit,3511.31,Online ödenisin hesabda görünmesi
+390,56,15/01/2022,Deposit,490.99,POS vasitesile pul daxilolmasi
+391,225,09/02/2022,Withdrawal,9691.33,Odenis terminallarindan naglasdirma
+392,212,06/10/2020,Withdrawal,3518.8,POS-dan nagd pul çixarilmasi
+393,193,27/07/2018,Withdrawal,7889.41,POS-dan nagd pul çixarilmasi
+394,296,26/08/2021,Transfer,2263.57,Eyni bank daxilinde diger hesab
+395,232,31/05/2018,Deposit,2956.14,POS vasitesile pul daxilolmasi
+396,164,19/06/2019,Deposit,751.26,Nagd pul depozit
+397,88,24/12/2022,Withdrawal,1617.44,Cheque (çek) ile pul çixarilmasi
+398,39,25/01/2021,Deposit,3386.13,Bank transferi (diger hesabdan)
+399,248,13/12/2021,Deposit,4318.92,Online ödenisin hesabda görünmesi
+400,85,28/05/2021,Withdrawal,1579.47,ATM cixarisi
+401,52,10/11/2019,Deposit,9744.24,Nagd pul depozit
+402,210,28/11/2021,Transfer,7223.16,Eyni bank daxilinde diger hesab
+403,277,28/06/2019,Transfer,2822.42,Xarici bank hesabina köçürmesi
+404,122,16/07/2018,Deposit,3935.09,Online ödenisin hesabda görünmesi
+405,282,17/09/2022,Withdrawal,1544.36,ATM cixarisi
+406,185,08/01/2018,Withdrawal,885.41,ATM cixarisi
+407,246,13/02/2019,Deposit,267.1,Maas köçürmesi
+408,88,31/07/2021,Withdrawal,9770.81,Odenis terminallarindan naglasdirma
+409,243,25/09/2022,Deposit,3090.45,Online ödenisin hesabda görünmesi
+410,204,22/08/2020,Withdrawal,8949.83,ATM cixarisi
+411,136,06/07/2018,Transfer,5445.82,Mobil banking vasitesile transfer
+412,95,30/01/2020,Withdrawal,3700.32,Filial kassasindan pul götürme
+413,229,02/04/2018,Withdrawal,4403.01,Odenis terminallarindan naglasdirma
+414,135,09/04/2019,Withdrawal,5646.82,POS-dan nagd pul çixarilmasi
+415,78,21/03/2022,Transfer,6678.01,Mobil banking vasitesile transfer
+416,44,30/09/2021,Withdrawal,8083.72,POS-dan nagd pul çixarilmasi
+417,212,12/06/2023,Transfer,2282.85,Online bank hesablar arasinda pul köçürmesi
+418,32,18/09/2022,Withdrawal,8185.87,Cheque (çek) ile pul çixarilmasi
+419,215,01/06/2023,Transfer,6873.81,Online bank hesablar arasinda pul köçürmesi
+420,244,18/03/2021,Deposit,4767.86,POS vasitesile pul daxilolmasi
+421,41,19/03/2020,Transfer,356.94,Eyni bank daxilinde diger hesab
+422,293,19/01/2023,Transfer,8006.5,Eyni bank daxilinde diger hesab
+423,76,04/09/2018,Withdrawal,1737.06,ATM cixarisi
+424,86,14/06/2023,Deposit,8086.52,Online ödenisin hesabda görünmesi
+425,65,29/03/2018,Withdrawal,792.9,ATM cixarisi
+426,223,18/02/2019,Transfer,1487.3,Avtomatik odenis transferi
+427,133,17/10/2019,Transfer,9142.6,Online bank hesablar arasinda pul köçürmesi
+428,35,28/06/2018,Withdrawal,5568.08,ATM cixarisi
+429,283,30/10/2019,Withdrawal,5201.68,Odenis terminallarindan naglasdirma
+430,7,30/05/2022,Transfer,6234.35,Eyni bank daxilinde diger hesab
+431,268,20/05/2022,Withdrawal,1134.06,ATM cixarisi
+432,77,31/10/2018,Transfer,5883.46,Eyni bank daxilinde diger hesab
+433,52,10/03/2023,Deposit,5631.21,Bank transferi (diger hesabdan)
+434,52,29/05/2022,Withdrawal,8676.08,Filial kassasindan pul götürme
+435,177,03/12/2022,Withdrawal,2648.72,Odenis terminallarindan naglasdirma
+436,249,17/03/2021,Transfer,4735.74,Xarici bank hesabina köçürmesi
+437,89,19/07/2019,Withdrawal,1447.09,POS-dan nagd pul çixarilmasi
+438,206,21/03/2018,Withdrawal,8896.85,POS-dan nagd pul çixarilmasi
+439,170,15/11/2021,Deposit,502.42,Online ödenisin hesabda görünmesi
+440,244,01/03/2023,Withdrawal,8971.34,Cheque (çek) ile pul çixarilmasi
+441,11,23/11/2019,Withdrawal,3116.38,ATM cixarisi
+442,252,24/10/2022,Transfer,6851.67,Mobil banking vasitesile transfer
+443,117,03/10/2018,Withdrawal,9742.45,ATM cixarisi
+444,227,05/05/2022,Withdrawal,2701.51,ATM cixarisi
+445,214,23/05/2021,Transfer,901.98,Mobil banking vasitesile transfer
+446,227,09/03/2019,Withdrawal,7412.04,Odenis terminallarindan naglasdirma
+447,265,12/11/2022,Withdrawal,8211.96,ATM cixarisi
+448,264,09/06/2022,Deposit,665.51,Bank transferi (diger hesabdan)
+449,260,06/04/2020,Deposit,7807.36,Online ödenisin hesabda görünmesi
+450,269,06/12/2022,Transfer,299.19,Online bank hesablar arasinda pul köçürmesi
+451,99,28/11/2022,Deposit,8371.4,Nagd pul depozit
+452,128,09/03/2018,Withdrawal,515.09,Filial kassasindan pul götürme
+453,185,14/12/2021,Deposit,2747.04,Bank transferi (diger hesabdan)
+454,238,31/10/2020,Withdrawal,6357.74,Odenis terminallarindan naglasdirma
+455,64,27/10/2021,Deposit,2426.96,POS vasitesile pul daxilolmasi
+456,251,01/05/2021,Withdrawal,1784.06,POS-dan nagd pul çixarilmasi
+457,243,16/04/2021,Transfer,3504.1,Online bank hesablar arasinda pul köçürmesi
+458,84,12/09/2022,Withdrawal,7492.12,POS-dan nagd pul çixarilmasi
+459,47,07/08/2019,Deposit,3871.79,Online ödenisin hesabda görünmesi
+460,84,15/10/2022,Transfer,7800.5,Eyni bank daxilinde diger hesab
+461,110,22/10/2022,Deposit,6477.33,Nagd pul depozit
+462,106,06/07/2019,Transfer,4100.98,Eyni bank daxilinde diger hesab
+463,11,06/11/2022,Transfer,98.89,Avtomatik odenis transferi
+464,68,18/08/2021,Deposit,6015.41,Online ödenisin hesabda görünmesi
+465,5,04/04/2019,Withdrawal,6087.36,Cheque (çek) ile pul çixarilmasi
+466,157,30/12/2021,Transfer,6430.98,Online bank hesablar arasinda pul köçürmesi
+467,217,08/01/2023,Withdrawal,8517.35,ATM cixarisi
+468,236,01/06/2019,Deposit,4672.31,Bank transferi (diger hesabdan)
+469,267,16/08/2022,Transfer,3977.55,Eyni bank daxilinde diger hesab
+470,53,16/01/2018,Transfer,9994.3,Eyni bank daxilinde diger hesab
+471,192,23/02/2021,Transfer,5941.79,Xarici bank hesabina köçürmesi
+472,145,04/09/2019,Transfer,1089.96,Mobil banking vasitesile transfer
+473,33,20/11/2019,Withdrawal,6409.54,ATM cixarisi
+474,142,19/06/2019,Transfer,7113.83,Mobil banking vasitesile transfer
+475,153,21/01/2019,Deposit,5177.76,POS vasitesile pul daxilolmasi
+476,124,17/01/2023,Deposit,8056.24,Nagd pul depozit
+477,207,14/09/2021,Withdrawal,6810.75,ATM cixarisi
+478,14,04/09/2021,Withdrawal,9974.72,Odenis terminallarindan naglasdirma
+479,133,01/02/2023,Withdrawal,4051.94,ATM cixarisi
+480,19,09/04/2021,Transfer,9947.59,Online bank hesablar arasinda pul köçürmesi
+481,98,04/12/2019,Transfer,7136.56,Online bank hesablar arasinda pul köçürmesi
+482,274,31/07/2021,Withdrawal,9066.2,Filial kassasindan pul götürme
+483,184,04/11/2020,Withdrawal,8455.74,Odenis terminallarindan naglasdirma
+484,286,06/01/2019,Withdrawal,985.05,POS-dan nagd pul çixarilmasi
+485,66,26/02/2022,Withdrawal,7254.61,POS-dan nagd pul çixarilmasi
+486,287,12/04/2022,Deposit,9469.76,Nagd pul depozit
+487,172,02/09/2021,Deposit,2230.31,Maas köçürmesi
+488,115,05/03/2022,Withdrawal,4210.52,Cheque (çek) ile pul çixarilmasi
+489,170,01/02/2020,Withdrawal,5859.85,ATM cixarisi
+490,238,10/10/2022,Deposit,4710.66,POS vasitesile pul daxilolmasi
+491,299,03/04/2021,Transfer,721.45,Eyni bank daxilinde diger hesab
+492,100,21/10/2020,Deposit,8676.3,Maas köçürmesi
+493,196,21/12/2020,Withdrawal,4136.94,ATM cixarisi
+494,78,09/10/2018,Deposit,3433.27,Online ödenisin hesabda görünmesi
+495,292,03/01/2023,Withdrawal,1440.81,ATM cixarisi
+496,93,15/05/2022,Deposit,4880.93,Nagd pul depozit
+497,91,04/10/2019,Transfer,589.56,Eyni bank daxilinde diger hesab
+498,232,15/07/2019,Deposit,7614.32,Bank transferi (diger hesabdan)
+499,87,26/03/2021,Deposit,4900.88,Online ödenisin hesabda görünmesi
+500,46,23/09/2018,Transfer,4342.78,Avtomatik odenis transferi
+501,220,06/04/2020,Withdrawal,9653.63,Odenis terminallarindan naglasdirma
+502,197,10/01/2018,Deposit,5342.49,Maas köçürmesi
+503,192,30/04/2023,Deposit,8921.14,Bank transferi (diger hesabdan)
+504,272,26/01/2019,Deposit,6770.71,Online ödenisin hesabda görünmesi
+505,128,09/04/2019,Transfer,8771.08,Online bank hesablar arasinda pul köçürmesi
+506,160,22/09/2018,Deposit,3841.67,Nagd pul depozit
+507,157,09/12/2018,Deposit,8240.2,Maas köçürmesi
+508,153,27/04/2023,Withdrawal,4564.7,ATM cixarisi
+509,267,06/05/2021,Transfer,3384.97,Eyni bank daxilinde diger hesab
+510,69,03/12/2019,Withdrawal,3598.92,Filial kassasindan pul götürme
+511,97,04/12/2018,Withdrawal,201.06,Odenis terminallarindan naglasdirma
+512,115,29/01/2022,Deposit,2119.79,Maas köçürmesi
+513,12,22/04/2021,Transfer,1698.16,Eyni bank daxilinde diger hesab
+514,188,27/12/2021,Transfer,7923.35,Xarici bank hesabina köçürmesi
+515,193,01/12/2022,Transfer,2565.33,Mobil banking vasitesile transfer
+516,274,30/06/2021,Deposit,5943.3,Nagd pul depozit
+517,25,17/09/2021,Deposit,6539.14,Maas köçürmesi
+518,11,09/04/2018,Transfer,1166.74,Mobil banking vasitesile transfer
+519,228,18/02/2020,Deposit,5477.35,Online ödenisin hesabda görünmesi
+520,243,08/12/2021,Deposit,2062.89,POS vasitesile pul daxilolmasi
+521,5,09/09/2019,Withdrawal,6620.03,POS-dan nagd pul çixarilmasi
+522,267,07/07/2019,Transfer,6060.29,Online bank hesablar arasinda pul köçürmesi
+523,71,07/05/2020,Deposit,5120.73,Bank transferi (diger hesabdan)
+524,61,02/08/2019,Deposit,7849.75,Online ödenisin hesabda görünmesi
+525,255,11/02/2019,Transfer,2005.5,Online bank hesablar arasinda pul köçürmesi
+526,135,30/08/2022,Transfer,9731.47,Eyni bank daxilinde diger hesab
+527,184,11/12/2021,Withdrawal,2960.56,POS-dan nagd pul çixarilmasi
+528,21,27/01/2021,Withdrawal,9104.46,Cheque (çek) ile pul çixarilmasi
+529,247,09/11/2019,Deposit,37.35,Online ödenisin hesabda görünmesi
+530,46,01/02/2023,Deposit,8353.97,POS vasitesile pul daxilolmasi
+531,253,02/11/2018,Deposit,7797.47,Nagd pul depozit
+532,39,21/01/2022,Transfer,1021.89,Eyni bank daxilinde diger hesab
+533,132,12/08/2021,Deposit,4572.94,Bank transferi (diger hesabdan)
+534,152,25/06/2019,Withdrawal,510.3,ATM cixarisi
+535,90,26/11/2022,Deposit,8523.96,POS vasitesile pul daxilolmasi
+536,185,30/06/2022,Transfer,3133.94,Avtomatik odenis transferi
+537,60,14/07/2018,Deposit,106.63,Maas köçürmesi
+538,71,20/09/2021,Transfer,1713.42,Online bank hesablar arasinda pul köçürmesi
+539,184,06/01/2023,Withdrawal,9551.34,ATM cixarisi
+540,138,05/12/2022,Transfer,938.58,Eyni bank daxilinde diger hesab
+541,176,10/01/2019,Deposit,4013.77,Nagd pul depozit
+542,234,11/07/2019,Withdrawal,6902.13,ATM cixarisi
+543,245,27/06/2022,Withdrawal,6491.98,Odenis terminallarindan naglasdirma
+544,86,20/08/2018,Deposit,6964.74,Online ödenisin hesabda görünmesi
+545,31,15/04/2023,Deposit,1046.09,POS vasitesile pul daxilolmasi
+546,248,02/07/2022,Transfer,6787.15,Eyni bank daxilinde diger hesab
+547,93,05/06/2021,Withdrawal,7793.85,ATM cixarisi
+548,15,02/11/2022,Transfer,8800.7,Xarici bank hesabina köçürmesi
+549,67,16/09/2020,Withdrawal,1138.25,Filial kassasindan pul götürme
+550,211,21/06/2020,Deposit,642.73,POS vasitesile pul daxilolmasi
+551,161,26/01/2018,Transfer,8684.64,Mobil banking vasitesile transfer
+552,269,21/04/2022,Transfer,5770.72,Mobil banking vasitesile transfer
+553,290,04/04/2019,Transfer,8732.7,Online bank hesablar arasinda pul köçürmesi
+554,266,07/12/2020,Transfer,7008.8,Online bank hesablar arasinda pul köçürmesi
+555,49,05/06/2020,Transfer,7269.25,Eyni bank daxilinde diger hesab
+556,247,10/12/2019,Transfer,6766.19,Eyni bank daxilinde diger hesab
+557,198,01/11/2018,Transfer,8921.7,Avtomatik odenis transferi
+558,28,24/01/2018,Transfer,9344.37,Online bank hesablar arasinda pul köçürmesi
+559,259,05/10/2022,Withdrawal,8520.19,Odenis terminallarindan naglasdirma
+560,85,03/06/2018,Withdrawal,3213.13,POS-dan nagd pul çixarilmasi
+561,170,10/06/2023,Withdrawal,513,POS-dan nagd pul çixarilmasi
+562,115,01/02/2021,Transfer,3792.59,Eyni bank daxilinde diger hesab
+563,121,11/06/2018,Withdrawal,4447.45,Cheque (çek) ile pul çixarilmasi
+564,294,06/07/2020,Deposit,8567.33,Online ödenisin hesabda görünmesi
+565,229,10/10/2019,Deposit,9806.9,POS vasitesile pul daxilolmasi
+566,10,30/07/2018,Withdrawal,4129.26,ATM cixarisi
+567,286,29/01/2021,Deposit,8260.83,Maas köçürmesi
+568,156,28/12/2022,Transfer,5627.7,Eyni bank daxilinde diger hesab
+569,234,01/05/2023,Withdrawal,3639.79,ATM cixarisi
+570,28,31/07/2022,Deposit,8444.73,POS vasitesile pul daxilolmasi
+571,170,21/02/2021,Transfer,6003.51,Xarici bank hesabina köçürmesi
+572,187,06/01/2022,Withdrawal,1149.09,ATM cixarisi
+573,114,05/01/2018,Withdrawal,3557.84,Odenis terminallarindan naglasdirma
+574,150,26/01/2021,Transfer,3745.16,Mobil banking vasitesile transfer
+575,55,04/04/2018,Deposit,4929.3,POS vasitesile pul daxilolmasi
+576,210,08/08/2018,Withdrawal,6112.41,ATM cixarisi
+577,97,05/09/2018,Withdrawal,2163.74,Filial kassasindan pul götürme
+578,98,07/01/2022,Withdrawal,1086.58,Odenis terminallarindan naglasdirma
+579,213,06/04/2018,Transfer,8376.29,Mobil banking vasitesile transfer
+580,64,01/05/2022,Withdrawal,4579.3,POS-dan nagd pul çixarilmasi
+581,259,03/10/2018,Withdrawal,53.33,POS-dan nagd pul çixarilmasi
+582,25,07/02/2021,Withdrawal,8389.77,Cheque (çek) ile pul çixarilmasi
+583,248,09/03/2023,Transfer,7813,Online bank hesablar arasinda pul köçürmesi
+584,91,17/11/2021,Transfer,1744.77,Online bank hesablar arasinda pul köçürmesi
+585,66,01/08/2018,Withdrawal,6578.64,ATM cixarisi
+586,165,29/10/2020,Withdrawal,4192.46,ATM cixarisi
+587,128,15/07/2019,Withdrawal,9636.3,ATM cixarisi
+588,151,16/07/2020,Deposit,1390.42,Bank transferi (diger hesabdan)
+589,263,05/09/2019,Transfer,5482.58,Eyni bank daxilinde diger hesab
+590,161,28/12/2021,Transfer,9355.77,Eyni bank daxilinde diger hesab
+591,112,16/02/2019,Deposit,6245.43,Nagd pul depozit
+592,149,07/11/2021,Withdrawal,9212.71,Odenis terminallarindan naglasdirma
+593,68,25/12/2021,Transfer,9752.04,Avtomatik odenis transferi
+594,92,28/10/2020,Transfer,6946.18,Online bank hesablar arasinda pul köçürmesi
+595,166,25/12/2021,Deposit,7610.14,POS vasitesile pul daxilolmasi
+596,288,10/09/2020,Transfer,5710.68,Eyni bank daxilinde diger hesab
+597,214,12/10/2021,Transfer,8939.72,Eyni bank daxilinde diger hesab
+598,274,09/08/2019,Withdrawal,8084.96,ATM cixarisi
+599,268,07/08/2018,Deposit,3814.89,Online ödenisin hesabda görünmesi
+600,28,04/10/2021,Deposit,2007.03,POS vasitesile pul daxilolmasi
+601,83,10/08/2019,Transfer,2513.1,Xarici bank hesabina köçürmesi
+602,32,15/11/2021,Withdrawal,2047.97,Filial kassasindan pul götürme
+603,278,08/03/2018,Withdrawal,8142.12,Odenis terminallarindan naglasdirma
+604,53,15/06/2021,Transfer,7397.53,Mobil banking vasitesile transfer
+605,115,01/03/2022,Transfer,5617.09,Mobil banking vasitesile transfer
+606,122,12/11/2020,Transfer,2883.51,Online bank hesablar arasinda pul köçürmesi
+607,25,13/03/2023,Withdrawal,3881.67,POS-dan nagd pul çixarilmasi
+608,161,02/06/2023,Transfer,547.48,Online bank hesablar arasinda pul köçürmesi
+609,129,20/02/2019,Transfer,8689.81,Eyni bank daxilinde diger hesab
+610,227,27/08/2022,Deposit,9115.75,POS vasitesile pul daxilolmasi
+611,189,27/03/2022,Transfer,5470.69,Eyni bank daxilinde diger hesab
+612,101,09/05/2022,Transfer,9643.26,Avtomatik odenis transferi
+613,151,08/07/2020,Deposit,9834.7,Bank transferi (diger hesabdan)
+614,39,18/01/2019,Deposit,7353.44,Online ödenisin hesabda görünmesi
+615,62,12/02/2020,Deposit,4290.79,POS vasitesile pul daxilolmasi
+616,285,26/06/2019,Deposit,1617.68,Nagd pul depozit
+617,131,12/01/2018,Withdrawal,4668.65,POS-dan nagd pul çixarilmasi
+618,80,23/03/2018,Deposit,9287,Bank transferi (diger hesabdan)
+619,27,04/05/2022,Transfer,6159.93,Online bank hesablar arasinda pul köçürmesi
+620,155,01/10/2020,Transfer,5506.1,Eyni bank daxilinde diger hesab
+621,38,25/05/2022,Transfer,3185.41,Eyni bank daxilinde diger hesab
+622,113,14/05/2023,Deposit,5210.86,Maas köçürmesi
+623,259,23/11/2018,Withdrawal,5435.37,Cheque (çek) ile pul çixarilmasi
+624,207,08/07/2018,Withdrawal,2219.77,ATM cixarisi
+625,110,20/09/2021,Withdrawal,3317.35,ATM cixarisi
+626,151,24/03/2019,Transfer,5309.68,Xarici bank hesabina köçürmesi
+627,288,14/08/2022,Transfer,97.95,Mobil banking vasitesile transfer
+628,178,01/07/2020,Deposit,9045.92,Bank transferi (diger hesabdan)
+629,125,18/05/2023,Deposit,6828.69,Online ödenisin hesabda görünmesi
+630,165,21/02/2020,Deposit,3864.9,POS vasitesile pul daxilolmasi
+631,277,22/01/2022,Withdrawal,256.81,ATM cixarisi
+632,265,11/08/2022,Withdrawal,5147.95,Odenis terminallarindan naglasdirma
+633,261,01/07/2020,Withdrawal,448.08,ATM cixarisi
+634,99,19/10/2019,Transfer,832.63,Mobil banking vasitesile transfer
+635,50,09/12/2018,Transfer,5336.73,Online bank hesablar arasinda pul köçürmesi
+636,34,08/03/2019,Transfer,6298.85,Online bank hesablar arasinda pul köçürmesi
+637,110,07/11/2022,Transfer,4247.85,Eyni bank daxilinde diger hesab
+638,54,26/02/2019,Transfer,8289.2,Eyni bank daxilinde diger hesab
+639,223,17/08/2021,Deposit,7471.44,Online ödenisin hesabda görünmesi
+640,79,18/02/2018,Withdrawal,7171.51,Filial kassasindan pul götürme
+641,20,29/06/2018,Deposit,552.14,Nagd pul depozit
+642,129,16/02/2021,Deposit,5753.87,Maas köçürmesi
+643,117,09/02/2023,Withdrawal,4082.25,Odenis terminallarindan naglasdirma
+644,231,14/07/2021,Withdrawal,4335.92,POS-dan nagd pul çixarilmasi
+645,9,08/03/2020,Transfer,1191.87,Avtomatik odenis transferi
+646,4,06/08/2021,Transfer,6187.31,Online bank hesablar arasinda pul köçürmesi
+647,300,04/04/2018,Transfer,8484.03,Eyni bank daxilinde diger hesab
+648,184,16/03/2023,Transfer,1070.29,Eyni bank daxilinde diger hesab
+649,155,27/05/2021,Deposit,2822.36,Online ödenisin hesabda görünmesi
+650,225,21/02/2020,Withdrawal,8223,POS-dan nagd pul çixarilmasi
+651,16,28/08/2020,Deposit,5339.34,Nagd pul depozit
+652,70,10/03/2022,Withdrawal,7969.74,Cheque (çek) ile pul çixarilmasi
+653,280,28/08/2019,Transfer,1449.31,Xarici bank hesabina köçürmesi
+654,192,15/05/2023,Deposit,5539.71,Online ödenisin hesabda görünmesi
+655,285,17/10/2018,Deposit,427.31,POS vasitesile pul daxilolmasi
+656,294,06/05/2021,Withdrawal,5376.15,ATM cixarisi
+657,44,17/09/2019,Deposit,7485.48,Maas köçürmesi
+658,177,10/03/2019,Withdrawal,9057.22,ATM cixarisi
+659,263,19/10/2018,Deposit,1848.09,Online ödenisin hesabda görünmesi
+660,130,02/02/2019,Deposit,1821.77,POS vasitesile pul daxilolmasi
+661,291,12/10/2022,Deposit,8515.36,Nagd pul depozit
+662,282,02/08/2020,Transfer,5501.15,Mobil banking vasitesile transfer
+663,149,07/10/2021,Deposit,2514.37,Bank transferi (diger hesabdan)
+664,102,26/01/2022,Transfer,4877.03,Mobil banking vasitesile transfer
+665,170,02/01/2020,Deposit,6716.24,POS vasitesile pul daxilolmasi
+666,121,24/07/2018,Withdrawal,6198.96,ATM cixarisi
+667,100,13/10/2019,Withdrawal,4511.95,Odenis terminallarindan naglasdirma
+668,157,21/11/2021,Transfer,1532.43,Online bank hesablar arasinda pul köçürmesi
+669,291,17/01/2020,Withdrawal,9587,ATM cixarisi
+670,87,10/01/2018,Withdrawal,2469.29,Filial kassasindan pul götürme
+671,114,29/12/2021,Transfer,6411.98,Online bank hesablar arasinda pul köçürmesi
+672,142,17/09/2022,Withdrawal,1351.72,Odenis terminallarindan naglasdirma
+673,170,03/12/2022,Withdrawal,4633.86,POS-dan nagd pul çixarilmasi
+674,184,06/05/2022,Withdrawal,4874.84,POS-dan nagd pul çixarilmasi
+675,56,26/12/2018,Transfer,6070.21,Eyni bank daxilinde diger hesab
+676,144,25/10/2022,Deposit,8914.06,Nagd pul depozit
+677,101,24/06/2019,Transfer,8864.49,Eyni bank daxilinde diger hesab
+678,40,29/01/2022,Deposit,8922.13,Bank transferi (diger hesabdan)
+679,260,17/07/2021,Deposit,8128.3,Online ödenisin hesabda görünmesi
+680,297,09/04/2020,Transfer,2135.48,Avtomatik odenis transferi
+681,19,03/02/2021,Withdrawal,5439.26,Cheque (çek) ile pul çixarilmasi
+682,277,24/08/2020,Transfer,7754.22,Online bank hesablar arasinda pul köçürmesi
+683,188,14/03/2020,Deposit,8915.46,Bank transferi (diger hesabdan)
+684,149,02/10/2018,Withdrawal,5016.22,ATM cixarisi
+685,47,23/03/2020,Withdrawal,5026.65,ATM cixarisi
+686,123,03/10/2022,Transfer,6844.77,Eyni bank daxilinde diger hesab
+687,264,15/10/2018,Withdrawal,1600.63,ATM cixarisi
+688,290,27/04/2023,Transfer,6597.54,Eyni bank daxilinde diger hesab
+689,75,16/02/2022,Transfer,4840.2,Xarici bank hesabina köçürmesi
+690,184,24/03/2018,Deposit,7617.11,POS vasitesile pul daxilolmasi
+691,119,09/05/2018,Withdrawal,3700.66,Odenis terminallarindan naglasdirma
+692,22,01/10/2021,Deposit,5183.67,Maas köçürmesi
+693,185,05/03/2020,Withdrawal,9179.84,ATM cixarisi
+694,24,23/03/2018,Transfer,3247.47,Mobil banking vasitesile transfer
+695,267,21/07/2021,Withdrawal,8350.37,Filial kassasindan pul götürme
+696,135,31/03/2021,Transfer,5705.9,Mobil banking vasitesile transfer
+697,193,31/08/2021,Withdrawal,3659.31,Odenis terminallarindan naglasdirma
+698,40,24/11/2020,Withdrawal,3769.52,POS-dan nagd pul çixarilmasi
+699,115,23/11/2020,Withdrawal,3535.45,POS-dan nagd pul çixarilmasi
+700,177,24/09/2020,Withdrawal,8872.85,Cheque (çek) ile pul çixarilmasi
+701,4,24/10/2020,Deposit,4404.59,Nagd pul depozit
+702,118,07/06/2018,Transfer,6438.34,Online bank hesablar arasinda pul köçürmesi
+703,109,04/11/2018,Deposit,1582,Bank transferi (diger hesabdan)
+704,61,15/09/2021,Deposit,4151.99,Online ödenisin hesabda görünmesi
+705,170,15/01/2022,Deposit,4820.35,POS vasitesile pul daxilolmasi
+706,246,08/09/2020,Deposit,5912,Nagd pul depozit
+707,211,15/02/2018,Deposit,441.01,Maas köçürmesi
+708,294,28/04/2021,Deposit,1355.89,Bank transferi (diger hesabdan)
+709,263,22/03/2018,Transfer,1477.18,Online bank hesablar arasinda pul köçürmesi
+710,86,13/06/2019,Deposit,5171.24,POS vasitesile pul daxilolmasi
+711,208,12/05/2021,Transfer,6379.85,Eyni bank daxilinde diger hesab
+712,146,24/04/2023,Deposit,2173.77,Maas köçürmesi
+713,242,12/11/2022,Withdrawal,1713.96,ATM cixarisi
+714,211,15/05/2021,Deposit,7948.21,Online ödenisin hesabda görünmesi
+715,94,30/06/2021,Transfer,5112.94,Eyni bank daxilinde diger hesab
+716,86,23/01/2022,Transfer,3433.29,Avtomatik odenis transferi
+717,233,06/05/2021,Transfer,697.74,Online bank hesablar arasinda pul köçürmesi
+718,194,29/02/2020,Deposit,1094.62,Bank transferi (diger hesabdan)
+719,104,06/12/2020,Transfer,6846.83,Eyni bank daxilinde diger hesab
+720,77,25/05/2021,Deposit,1782.45,POS vasitesile pul daxilolmasi
+721,20,03/12/2022,Transfer,5038.26,Eyni bank daxilinde diger hesab
+722,61,10/07/2018,Withdrawal,6597.33,ATM cixarisi
+723,277,22/08/2022,Deposit,8970.72,Bank transferi (diger hesabdan)
+724,221,05/12/2020,Withdrawal,3710.07,ATM cixarisi
+725,23,29/11/2021,Transfer,4295.27,Xarici bank hesabina köçürmesi
+726,247,06/06/2022,Withdrawal,3511.67,Odenis terminallarindan naglasdirma
+727,295,20/07/2018,Withdrawal,1347.49,ATM cixarisi
+728,245,18/04/2022,Deposit,9101.75,Bank transferi (diger hesabdan)
+729,43,04/08/2019,Transfer,8768.9,Mobil banking vasitesile transfer
+730,210,12/06/2019,Deposit,64.64,POS vasitesile pul daxilolmasi
+731,4,29/03/2021,Transfer,1187.11,Mobil banking vasitesile transfer
+732,4,08/02/2020,Transfer,2062.13,Online bank hesablar arasinda pul köçürmesi
+733,162,17/04/2020,Withdrawal,1074.77,Filial kassasindan pul götürme
+734,219,27/08/2021,Transfer,2543.79,Online bank hesablar arasinda pul köçürmesi
+735,275,17/05/2020,Transfer,3662.78,Eyni bank daxilinde diger hesab
+736,142,25/10/2021,Withdrawal,7552.17,Odenis terminallarindan naglasdirma
+737,212,04/02/2021,Transfer,4829.85,Eyni bank daxilinde diger hesab
+738,190,19/02/2021,Transfer,4842.76,Avtomatik odenis transferi
+739,158,29/03/2021,Withdrawal,7744.2,POS-dan nagd pul çixarilmasi
+740,204,15/02/2022,Deposit,8551.44,POS vasitesile pul daxilolmasi
+741,61,12/03/2022,Deposit,4471.48,Nagd pul depozit
+742,83,25/07/2018,Deposit,5088.35,Maas köçürmesi
+743,174,29/06/2022,Transfer,6144.11,Online bank hesablar arasinda pul köçürmesi
+744,27,26/11/2018,Withdrawal,9646.06,POS-dan nagd pul çixarilmasi
+745,3,06/07/2022,Deposit,8234.32,POS vasitesile pul daxilolmasi
+746,242,12/03/2023,Transfer,4359.42,Eyni bank daxilinde diger hesab
+747,33,23/06/2019,Deposit,3714.64,Maas köçürmesi
+748,20,23/01/2022,Withdrawal,9307.54,Cheque (çek) ile pul çixarilmasi
+749,206,11/06/2021,Transfer,5214.85,Eyni bank daxilinde diger hesab
+750,30,21/04/2023,Deposit,6406.51,POS vasitesile pul daxilolmasi
+751,225,22/01/2018,Deposit,8507.17,Nagd pul depozit
+752,266,09/08/2019,Deposit,345.76,Maas köçürmesi
+753,262,22/11/2020,Transfer,2324.39,Xarici bank hesabina köçürmesi
+754,87,12/10/2021,Deposit,3603.8,Online ödenisin hesabda görünmesi
+755,1,22/06/2023,Deposit,877.56,POS vasitesile pul daxilolmasi
+756,142,16/05/2022,Withdrawal,3537.75,ATM cixarisi
+757,203,10/04/2020,Transfer,2011.1,Mobil banking vasitesile transfer
+758,8,18/02/2022,Transfer,695.49,Mobil banking vasitesile transfer
+759,47,30/01/2021,Withdrawal,7264.13,ATM cixarisi
+760,287,17/02/2023,Transfer,3487.47,Online bank hesablar arasinda pul köçürmesi
+761,142,09/04/2019,Transfer,9630.94,Online bank hesablar arasinda pul köçürmesi
+762,233,20/03/2023,Withdrawal,5753.32,ATM cixarisi
+763,134,25/12/2018,Withdrawal,5067.32,Odenis terminallarindan naglasdirma
+764,287,29/05/2018,Transfer,2949.58,Eyni bank daxilinde diger hesab
+765,60,03/07/2022,Transfer,9567.53,Eyni bank daxilinde diger hesab
+766,276,24/07/2022,Transfer,2508.91,Avtomatik odenis transferi
+767,227,02/06/2023,Withdrawal,5636.05,ATM cixarisi
+768,125,01/04/2022,Withdrawal,9612.77,Filial kassasindan pul götürme
+769,235,27/10/2021,Withdrawal,8966.27,Odenis terminallarindan naglasdirma
+770,15,14/09/2020,Deposit,2585.62,POS vasitesile pul daxilolmasi
+771,196,21/07/2021,Deposit,6772.36,Nagd pul depozit
+772,118,27/06/2022,Withdrawal,4130.14,POS-dan nagd pul çixarilmasi
+773,181,23/11/2020,Transfer,107.13,Online bank hesablar arasinda pul köçürmesi
+774,135,24/05/2019,Withdrawal,939.16,POS-dan nagd pul çixarilmasi
+775,176,05/06/2018,Transfer,9314.65,Eyni bank daxilinde diger hesab
+776,244,05/10/2019,Withdrawal,2193.48,Cheque (çek) ile pul çixarilmasi
+777,294,06/07/2019,Deposit,9471.71,Maas köçürmesi
+778,98,18/10/2020,Transfer,2004.67,Eyni bank daxilinde diger hesab
+779,124,23/11/2022,Withdrawal,2075.72,ATM cixarisi
+780,104,06/09/2022,Deposit,8364.98,POS vasitesile pul daxilolmasi
+781,183,16/11/2018,Deposit,1207.59,Nagd pul depozit
+782,41,16/10/2021,Transfer,4931.72,Xarici bank hesabina köçürmesi
+783,4,15/04/2022,Transfer,9580.35,Mobil banking vasitesile transfer
+784,247,31/01/2020,Transfer,3161.01,Mobil banking vasitesile transfer
+785,295,15/11/2022,Withdrawal,4913.15,ATM cixarisi
+786,262,28/07/2019,Withdrawal,2228.71,ATM cixarisi
+787,296,20/09/2018,Deposit,5262.1,Maas köçürmesi
+788,217,06/09/2020,Transfer,335.3,Online bank hesablar arasinda pul köçürmesi
+789,178,17/03/2020,Transfer,7761.28,Online bank hesablar arasinda pul köçürmesi
+790,235,23/06/2023,Deposit,6985.46,POS vasitesile pul daxilolmasi
+791,236,09/10/2019,Transfer,94.1,Eyni bank daxilinde diger hesab
+792,108,17/02/2020,Transfer,1016.47,Eyni bank daxilinde diger hesab
+793,186,08/06/2021,Withdrawal,1879.65,Odenis terminallarindan naglasdirma
+794,135,01/05/2019,Withdrawal,4718.74,ATM cixarisi
+795,176,20/01/2020,Deposit,4992.71,POS vasitesile pul daxilolmasi
+796,108,08/05/2020,Transfer,7524.44,Avtomatik odenis transferi
+797,187,16/10/2022,Withdrawal,2803.5,Filial kassasindan pul götürme
+798,93,16/03/2021,Deposit,9792.93,Bank transferi (diger hesabdan)
+799,118,26/07/2022,Deposit,7210.95,Online ödenisin hesabda görünmesi
+800,121,11/02/2021,Withdrawal,8564.52,Odenis terminallarindan naglasdirma
+801,101,26/10/2018,Transfer,1503.99,Online bank hesablar arasinda pul köçürmesi
+802,5,28/12/2018,Withdrawal,5000.98,POS-dan nagd pul çixarilmasi
+803,265,29/12/2020,Transfer,3164.12,Eyni bank daxilinde diger hesab
+804,250,07/09/2019,Withdrawal,5625.76,POS-dan nagd pul çixarilmasi
+805,291,08/04/2018,Withdrawal,998.76,Cheque (çek) ile pul çixarilmasi
+806,84,03/05/2018,Deposit,8140.04,Nagd pul depozit
+807,244,15/09/2022,Transfer,972.06,Eyni bank daxilinde diger hesab
+808,172,17/06/2019,Withdrawal,3609.46,ATM cixarisi
+809,286,24/03/2023,Withdrawal,3447.96,ATM cixarisi
+810,211,06/09/2018,Withdrawal,8675.01,ATM cixarisi
+811,102,27/03/2021,Transfer,6502.16,Xarici bank hesabina köçürmesi
+812,276,24/12/2018,Withdrawal,3557.54,Odenis terminallarindan naglasdirma
+813,262,25/09/2020,Transfer,4474.83,Mobil banking vasitesile transfer
+814,41,20/02/2020,Transfer,2872.37,Mobil banking vasitesile transfer
+815,75,14/11/2022,Deposit,6409.4,POS vasitesile pul daxilolmasi
+816,173,13/05/2020,Transfer,6126.98,Online bank hesablar arasinda pul köçürmesi
+817,208,05/10/2022,Deposit,800.33,Maas köçürmesi
+818,176,13/04/2019,Withdrawal,3175.61,ATM cixarisi
+819,150,25/12/2021,Withdrawal,6057.8,Filial kassasindan pul götürme
+820,203,10/07/2019,Withdrawal,7811.93,Odenis terminallarindan naglasdirma
+821,186,12/03/2022,Transfer,5214.15,Online bank hesablar arasinda pul köçürmesi
+822,231,27/04/2020,Deposit,1847.02,Maas köçürmesi
+823,12,14/09/2018,Transfer,2353.93,Eyni bank daxilinde diger hesab
+824,129,11/04/2023,Transfer,7009.96,Eyni bank daxilinde diger hesab
+825,41,08/03/2019,Deposit,3976.49,POS vasitesile pul daxilolmasi
+826,49,11/05/2018,Withdrawal,5488.85,POS-dan nagd pul çixarilmasi
+827,14,28/04/2022,Withdrawal,5244.59,POS-dan nagd pul çixarilmasi
+828,43,01/08/2018,Withdrawal,6184.84,Cheque (çek) ile pul çixarilmasi
+829,44,03/09/2021,Withdrawal,3100.61,ATM cixarisi
+830,127,19/02/2022,Withdrawal,4437.17,ATM cixarisi
+831,65,26/09/2018,Transfer,8386.79,Avtomatik odenis transferi
+832,15,13/03/2018,Transfer,3574.84,Online bank hesablar arasinda pul köçürmesi
+833,167,05/11/2022,Withdrawal,4677.26,ATM cixarisi
+834,277,30/03/2023,Withdrawal,5489.97,Odenis terminallarindan naglasdirma
+835,70,09/06/2023,Transfer,5397.48,Eyni bank daxilinde diger hesab
+836,234,16/07/2021,Transfer,6362.15,Eyni bank daxilinde diger hesab
+837,289,09/06/2020,Transfer,6401.47,Xarici bank hesabina köçürmesi
+838,274,27/09/2019,Withdrawal,4821.7,ATM cixarisi
+839,117,07/07/2022,Deposit,4424.18,Online ödenisin hesabda görünmesi
+840,188,24/04/2020,Withdrawal,1565.62,Filial kassasindan pul götürme
+841,6,01/01/2018,Transfer,8155.64,Mobil banking vasitesile transfer
+842,70,06/12/2019,Withdrawal,4697.29,Odenis terminallarindan naglasdirma
+843,5,09/11/2021,Withdrawal,9470.11,POS-dan nagd pul çixarilmasi
+844,245,06/09/2019,Deposit,7661.03,Online ödenisin hesabda görünmesi
+845,150,07/05/2021,Deposit,7969.71,POS vasitesile pul daxilolmasi
+846,281,05/02/2020,Deposit,4123.24,Nagd pul depozit
+847,288,14/06/2020,Withdrawal,2506.46,POS-dan nagd pul çixarilmasi
+848,200,24/08/2022,Withdrawal,2213.72,Cheque (çek) ile pul çixarilmasi
+849,41,14/05/2020,Transfer,2403.22,Mobil banking vasitesile transfer
+850,140,07/08/2019,Transfer,7431.84,Online bank hesablar arasinda pul köçürmesi
+851,138,25/04/2020,Deposit,8536.29,Nagd pul depozit
+852,94,07/10/2018,Withdrawal,1112.46,ATM cixarisi
+853,234,19/06/2021,Withdrawal,2728.62,ATM cixarisi
+854,252,20/01/2019,Withdrawal,203.76,ATM cixarisi
+855,26,09/06/2023,Transfer,231.09,Online bank hesablar arasinda pul köçürmesi
+856,53,01/08/2019,Withdrawal,1259.14,Odenis terminallarindan naglasdirma
+857,225,29/01/2022,Deposit,2335.78,Maas köçürmesi
+858,78,31/01/2018,Withdrawal,2179.71,ATM cixarisi
+859,216,01/10/2019,Withdrawal,9979.65,Filial kassasindan pul götürme
+860,238,28/11/2021,Deposit,3309.18,POS vasitesile pul daxilolmasi
+861,75,25/04/2018,Withdrawal,7758.77,Odenis terminallarindan naglasdirma
+862,37,17/01/2021,Withdrawal,1824.22,POS-dan nagd pul çixarilmasi
+863,129,01/08/2022,Withdrawal,8284.24,POS-dan nagd pul çixarilmasi
+864,63,19/06/2023,Transfer,2497.13,Eyni bank daxilinde diger hesab
+865,227,22/05/2019,Transfer,9945.41,Eyni bank daxilinde diger hesab
+866,102,01/08/2020,Transfer,7712.25,Avtomatik odenis transferi
+867,267,25/09/2021,Deposit,4733.53,Maas köçürmesi
+868,160,02/04/2023,Withdrawal,1594.53,Cheque (çek) ile pul çixarilmasi
+869,22,06/03/2022,Transfer,5214.05,Online bank hesablar arasinda pul köçürmesi
+870,130,12/09/2020,Transfer,2995.14,Eyni bank daxilinde diger hesab
+871,185,23/12/2022,Deposit,8637.94,Nagd pul depozit
+872,112,17/06/2023,Deposit,2367.3,Maas köçürmesi
+873,223,27/10/2019,Deposit,1681.93,Bank transferi (diger hesabdan)
+874,142,12/04/2021,Deposit,3964.12,Online ödenisin hesabda görünmesi
+875,125,19/01/2018,Deposit,5814.96,POS vasitesile pul daxilolmasi
+876,244,10/11/2021,Transfer,1558.37,Eyni bank daxilinde diger hesab
+877,46,25/05/2019,Deposit,5004.19,Maas köçürmesi
+878,174,22/03/2023,Transfer,609.92,Xarici bank hesabina köçürmesi
+879,183,13/08/2021,Deposit,7016.27,Online ödenisin hesabda görünmesi
+880,55,15/09/2018,Withdrawal,2334.42,ATM cixarisi
+881,286,03/06/2022,Transfer,7569.41,Mobil banking vasitesile transfer
+882,225,10/02/2022,Deposit,223.31,Maas köçürmesi
+883,194,04/01/2020,Transfer,1355.97,Mobil banking vasitesile transfer
+884,21,20/09/2020,Transfer,4380.63,Online bank hesablar arasinda pul köçürmesi
+885,151,16/01/2021,Transfer,4906.02,Online bank hesablar arasinda pul köçürmesi
+886,291,18/01/2019,Transfer,3483.17,Eyni bank daxilinde diger hesab
+887,240,18/07/2019,Transfer,9145.6,Eyni bank daxilinde diger hesab
+888,284,25/11/2018,Deposit,5316.06,Bank transferi (diger hesabdan)
+889,231,29/08/2019,Withdrawal,5420.64,ATM cixarisi
+890,233,02/01/2018,Transfer,5064.52,Avtomatik odenis transferi
+891,95,14/12/2022,Deposit,6201.15,Nagd pul depozit
+892,187,09/05/2022,Transfer,2395.48,Online bank hesablar arasinda pul köçürmesi
+893,33,10/09/2021,Transfer,8192.31,Eyni bank daxilinde diger hesab
+894,98,09/12/2020,Transfer,4980.52,Eyni bank daxilinde diger hesab
+895,283,12/11/2018,Transfer,2838.46,Xarici bank hesabina köçürmesi
+896,210,05/08/2021,Withdrawal,1113.54,ATM cixarisi
+897,268,11/09/2021,Deposit,447.33,Maas köçürmesi
+898,67,01/01/2019,Deposit,2028.77,Bank transferi (diger hesabdan)
+899,249,28/01/2019,Deposit,327.85,Online ödenisin hesabda görünmesi
+900,199,09/09/2021,Withdrawal,5262.96,Odenis terminallarindan naglasdirma
+901,132,11/04/2018,Withdrawal,2215.02,ATM cixarisi
+902,37,27/01/2018,Deposit,6560.94,Maas köçürmesi
+903,41,16/08/2020,Transfer,616.39,Mobil banking vasitesile transfer
+904,286,03/03/2022,Withdrawal,8222.04,Filial kassasindan pul götürme
+905,30,14/08/2022,Transfer,2665.5,Mobil banking vasitesile transfer
+906,21,12/02/2022,Deposit,8346.22,Nagd pul depozit
+907,40,19/04/2023,Deposit,9606.26,Maas köçürmesi
+908,50,27/07/2018,Transfer,2317.87,Online bank hesablar arasinda pul köçürmesi
+909,198,24/01/2019,Deposit,5266.66,Online ödenisin hesabda görünmesi
+910,128,13/03/2021,Transfer,9475.56,Online bank hesablar arasinda pul köçürmesi
+911,286,15/03/2022,Transfer,4157.69,Eyni bank daxilinde diger hesab
+912,55,19/04/2022,Transfer,5769.87,Eyni bank daxilinde diger hesab
+913,235,09/12/2021,Transfer,4276.48,Avtomatik odenis transferi
+914,54,08/12/2018,Deposit,5504.16,Online ödenisin hesabda görünmesi
+915,259,23/11/2019,Transfer,1590.18,Online bank hesablar arasinda pul köçürmesi
+916,227,27/03/2023,Withdrawal,9025.82,Odenis terminallarindan naglasdirma
+917,282,27/10/2019,Withdrawal,4129.31,POS-dan nagd pul çixarilmasi
+918,221,19/08/2022,Transfer,3241.27,Eyni bank daxilinde diger hesab
+919,124,27/02/2021,Transfer,2147.14,Eyni bank daxilinde diger hesab
+920,282,12/03/2023,Transfer,2548.35,Xarici bank hesabina köçürmesi
+921,232,05/07/2020,Withdrawal,11.95,POS-dan nagd pul çixarilmasi
+922,18,06/08/2019,Transfer,172.86,Mobil banking vasitesile transfer
+923,70,29/12/2022,Withdrawal,75.62,Cheque (çek) ile pul çixarilmasi
+924,114,16/03/2019,Withdrawal,226.8,ATM cixarisi
+925,142,26/02/2023,Transfer,5117.6,Mobil banking vasitesile transfer
+926,293,12/03/2023,Transfer,1555.6,Online bank hesablar arasinda pul köçürmesi
+927,20,31/07/2020,Withdrawal,1569.51,ATM cixarisi
+928,136,22/01/2020,Transfer,2506.07,Online bank hesablar arasinda pul köçürmesi
+929,132,20/07/2022,Withdrawal,928.13,ATM cixarisi
+930,205,11/03/2021,Deposit,7345.32,POS vasitesile pul daxilolmasi
+931,167,12/06/2022,Withdrawal,1737.3,Odenis terminallarindan naglasdirma
+932,296,06/08/2022,Deposit,5956.36,Maas köçürmesi
+933,154,18/03/2018,Transfer,8085.33,Eyni bank daxilinde diger hesab
+934,196,10/06/2018,Deposit,9219.5,Online ödenisin hesabda görünmesi
+935,172,14/12/2019,Withdrawal,4171.05,ATM cixarisi
+936,62,17/11/2022,Deposit,7479.31,Nagd pul depozit
+937,6,22/07/2021,Transfer,3831.04,Eyni bank daxilinde diger hesab
+938,157,09/12/2020,Deposit,3199.97,Bank transferi (diger hesabdan)
+939,290,03/11/2018,Withdrawal,5028.99,Filial kassasindan pul götürme
+940,114,10/11/2018,Deposit,6739.62,POS vasitesile pul daxilolmasi
+941,202,12/06/2023,Withdrawal,7530.87,Odenis terminallarindan naglasdirma
+942,295,30/10/2020,Deposit,2228.64,Maas köçürmesi
+943,149,30/05/2022,Withdrawal,1488.64,POS-dan nagd pul çixarilmasi
+944,173,19/06/2018,Withdrawal,5718.69,POS-dan nagd pul çixarilmasi
+945,26,27/01/2021,Withdrawal,2632.95,Cheque (çek) ile pul çixarilmasi
+946,205,24/10/2020,Withdrawal,7740.51,ATM cixarisi
+947,67,10/04/2022,Deposit,4814.42,Maas köçürmesi
+948,102,26/09/2020,Withdrawal,6525.96,ATM cixarisi
+949,101,23/02/2021,Transfer,9970.82,Avtomatik odenis transferi
+950,269,20/05/2019,Deposit,725.72,POS vasitesile pul daxilolmasi
+951,221,25/10/2019,Transfer,9242.14,Online bank hesablar arasinda pul köçürmesi
+952,46,19/08/2018,Transfer,4141.68,Eyni bank daxilinde diger hesab
+953,188,15/12/2019,Deposit,3214.18,Bank transferi (diger hesabdan)
+954,13,26/04/2022,Withdrawal,1700.86,ATM cixarisi
+955,180,16/06/2021,Withdrawal,6235.59,Odenis terminallarindan naglasdirma
+956,226,02/04/2018,Deposit,2004.86,Nagd pul depozit
+957,192,16/11/2018,Transfer,8529.11,Eyni bank daxilinde diger hesab
+958,58,23/02/2022,Deposit,2438.05,Bank transferi (diger hesabdan)
+959,76,15/11/2022,Withdrawal,147.2,ATM cixarisi
+960,57,17/09/2019,Withdrawal,4717.19,Filial kassasindan pul götürme
+961,170,05/03/2019,Transfer,5384.67,Xarici bank hesabina köçürmesi
+962,105,24/01/2021,Transfer,7506.05,Mobil banking vasitesile transfer
+963,281,16/09/2020,Transfer,7301.94,Mobil banking vasitesile transfer
+964,73,24/11/2021,Transfer,6685.92,Online bank hesablar arasinda pul köçürmesi
+965,193,08/04/2021,Transfer,5272.72,Online bank hesablar arasinda pul köçürmesi
+966,131,15/12/2018,Deposit,2847.3,Nagd pul depozit
+967,139,19/04/2018,Withdrawal,6551.03,Odenis terminallarindan naglasdirma
+968,5,17/05/2018,Withdrawal,6607.12,POS-dan nagd pul çixarilmasi
+969,185,06/11/2022,Deposit,200.59,Online ödenisin hesabda görünmesi
+970,198,19/04/2019,Withdrawal,5090.32,POS-dan nagd pul çixarilmasi
+971,51,26/01/2023,Withdrawal,4851.77,Cheque (çek) ile pul çixarilmasi
+972,273,30/06/2018,Deposit,1996.76,Maas köçürmesi
+973,235,22/02/2021,Transfer,224.67,Eyni bank daxilinde diger hesab
+974,127,04/03/2023,Transfer,3056.23,Eyni bank daxilinde diger hesab
+975,251,16/03/2020,Transfer,1578.48,Avtomatik odenis transferi
+976,178,02/11/2021,Withdrawal,3560.23,ATM cixarisi
+977,155,29/04/2019,Transfer,2766.02,Online bank hesablar arasinda pul köçürmesi
+978,32,05/07/2021,Withdrawal,8787.99,ATM cixarisi
+979,16,18/04/2023,Transfer,9491.67,Eyni bank daxilinde diger hesab
+980,116,07/11/2018,Withdrawal,8972.78,ATM cixarisi
+981,71,29/06/2018,Transfer,3828.25,Mobil banking vasitesile transfer
+982,117,04/05/2020,Deposit,5733.26,Maas köçürmesi
+983,219,11/06/2023,Withdrawal,9098.26,Odenis terminallarindan naglasdirma
+984,169,08/07/2020,Transfer,1326.4,Mobil banking vasitesile transfer
+985,71,04/04/2021,Transfer,6843.65,Online bank hesablar arasinda pul köçürmesi
+986,104,02/11/2022,Deposit,3096.89,Nagd pul depozit
+987,269,06/02/2023,Deposit,4306.34,Maas köçürmesi
+988,75,05/09/2021,Transfer,9171.95,Online bank hesablar arasinda pul köçürmesi
+989,163,19/05/2018,Transfer,5334.29,Eyni bank daxilinde diger hesab
+990,61,13/01/2019,Withdrawal,8396.83,Filial kassasindan pul götürme
+991,75,29/01/2022,Deposit,7656.7,Nagd pul depozit
+992,212,23/05/2023,Withdrawal,3040.45,POS-dan nagd pul çixarilmasi
+993,141,08/11/2018,Deposit,1076.65,Bank transferi (diger hesabdan)
+994,95,23/02/2018,Transfer,6173.3,Eyni bank daxilinde diger hesab
+995,291,08/06/2021,Deposit,5967.64,POS vasitesile pul daxilolmasi
+996,119,08/11/2021,Deposit,3599.02,Nagd pul depozit
+997,245,02/10/2018,Transfer,8462.92,Avtomatik odenis transferi
+998,241,29/12/2021,Transfer,3745.85,Online bank hesablar arasinda pul köçürmesi
+999,199,03/10/2020,Withdrawal,1383.75,POS-dan nagd pul çixarilmasi
+1000,99,09/04/2019,Deposit,4091.81,POS vasitesile pul daxilolmasi
