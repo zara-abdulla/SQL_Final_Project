@@ -148,6 +148,7 @@ This project focuses on analyzing and visualizing banking data to provide action
 *SQL Script:* [Task 3](Scripts/task_2.3.sql)  
 
 *Visualization:* ![](Visualization/chart_2.3.png)
+<br>  
 ![](Visualization/chart_2.3.1.png)
 
 ---
@@ -156,6 +157,7 @@ This project focuses on analyzing and visualizing banking data to provide action
 *SQL Script:* [Task 4](Scripts/task_2.4.sql)  
 
 *Visualization:* ![](Visualization/chart_2.4.png)
+<br>  
 ![](Visualization/chart_2.4.1.png)
 
 ---
