@@ -98,7 +98,59 @@ This project focuses on analyzing and visualizing banking data to provide action
    - Customer segmentation based on balance and transaction count (High, Medium, Low).
    - Credit-to-account balance ratio per customer.
 
-Picture: 
 
-![Chart 1](Visualization/chart1.png) 
+
+## SQL Scripts & Visualizations
+
+## I. Customer & Account Analysis
+
+### **Question 1:** Number of active accounts per customer and total balance.
+
+*SQL Script:* [Task 1](Scripts/task_1.1.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+
+### **Question 2:** Average account balance by city.
+
+*SQL Script:* [Task 2](Scripts/task_1.2.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
  
+ ### **Question 3:** Account count and balance by customer age group. 
+ *SQL Script:* [Task 3](Scripts/task_1.3.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 4:** Top 5 richest customers (top balance).
+ *SQL Script:* [Task 4](Scripts/task_1.4.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+---
+
+## II. Transaction Analysis
+### **Question 1:** Total deposits and withdrawals per account.
+*SQL Script:* [Task 1](Scripts/task_2.1.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 2:** Number of transactions and total amount per customer.
+*SQL Script:* [Task 2](Scripts/task_2.2.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+## **Question 3:** Accounts with the highest number of transactions.
+*SQL Script:* [Task 3](Scripts/task_2.3.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+## **Question 4:** Distribution of transaction types (Deposit, Withdrawal, Transfer).
+### *SQL Script:* [Task 4](Scripts/task_2.4.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+## **Question 5:** Largest transaction per customer compared to average transaction.
+ ### *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
