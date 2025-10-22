@@ -200,3 +200,26 @@ This project focuses on analyzing and visualizing banking data to provide action
 *SQL Script:* [Task 6](Scripts/task_4.6.sql)  
 
 *Visualization:* ![Chart 1](Visualization/)
+
+---
+
+## V. Bonus Questions
+### **Bonus 1:** Comparison of active vs. closed account balances.
+*SQL Script:* [Bonus 1](Scripts/task_5.1.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Bonus 2:** Largest transaction per customer and date.
+*SQL Script:* [Bonus 2](Scripts/task_5.2.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Bonus 3:** Customer segmentation based on balance and transaction count (High, Medium, Low).
+*SQL Script:* [Bonus 3](Scripts/task_5.3.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Bonus 4:** Credit-to-account balance ratio per customer.
+*SQL Script:* [Bonus 4](Scripts/task_5.4.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
