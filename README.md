@@ -260,7 +260,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Bonus 1:** Comparison of active vs. closed account balances.
 *SQL Script:* [Bonus 1](Scripts/task_5.1.sql)  
 
-*Visualization:* ![](Visualization/chart_1.5.1.png) ![](Visualization/chart_1.5.png)
+*Visualization:* 
+![](Visualization/chart_1.5.1.png) ![](Visualization/chart_1.5.png)
 
 ### **Bonus 2:** Largest transaction per customer and date.
 *SQL Script:* [Bonus 2](Scripts/task_5.2.sql)  
