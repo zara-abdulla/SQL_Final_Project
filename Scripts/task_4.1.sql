@@ -1,4 +1,5 @@
---select 
+--Total credit per customer
+select 
     c.customer_id,
     c.full_name,
     cr.credit_id,
