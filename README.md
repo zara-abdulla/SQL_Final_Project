@@ -154,3 +154,49 @@ This project focuses on analyzing and visualizing banking data to provide action
  *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
 
 *Visualization:* ![Chart 1](Visualization/)
+
+---
+
+## III. Time & Trend Analysis
+### **Question 1:** Monthly and yearly transaction counts and amounts.
+ *SQL Script:* [Task 1](Scripts/task_3.1.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 2:** Monthly deposit vs. withdrawal trend.
+*SQL Script:* [Task 2](Scripts/task_3.2.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+---
+
+## IV. Credit Analysis
+### **Question 1:** Total credit per customer.
+*SQL Script:* [Task 1](Scripts/task_4.1.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 2:** Credit status distribution (Active, Closed, Defaulted).
+*SQL Script:* [Task 2](Scripts/task_4.2.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 3:** Average monthly credit payment per customer.
+*SQL Script:* [Task 3](Scripts/task_4.3.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 4:** Profitability analysis based on credit interest.
+*SQL Script:* [Task 4](Scripts/task_4.4.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 5:** Risky credit ratio by region/city.
+*SQL Script:* [Task 5](Scripts/task_4.5.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
+
+### **Question 6:** First and last credit amounts per customer.
+*SQL Script:* [Task 6](Scripts/task_4.6.sql)  
+
+*Visualization:* ![Chart 1](Visualization/)
