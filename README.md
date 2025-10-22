@@ -108,24 +108,38 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *SQL Script:* [Task 1](Scripts/task_1.1.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_1.1.png) ![](Visualization/chart_1.1.1.png)
 
+> **Analysis Result:** Customers with a single account dominate both in number and total balance share.
+
+---
 
 ### **Question 2:** Average account balance by city.
 
 *SQL Script:* [Task 2](Scripts/task_1.2.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![Chart 1](Visualization/chart_1.2.png)
+
+> **Analysis Result:**
+Sumqayit is the leader in customer activity and balance. Ganja and Lankaran maintain high balances, Sheki and Mingachevir excel in transaction activity, whereas Baku shows lower metrics in both aspects.
+
+---
  
  ### **Question 3:** Account count and balance by customer age group. 
  *SQL Script:* [Task 3](Scripts/task_1.3.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_1.3.png)
+
+> **Analysis Result:** Age groups 28-37 and 68-77 are above the average;
+Age groups 38-47 and 58-67 are below the average.
+
+---
 
 ### **Question 4:** Top 5 richest customers (top balance).
  *SQL Script:* [Task 4](Scripts/task_1.4.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_1.4.png)
+
 
 ---
 
@@ -135,12 +149,16 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *Visualization:* ![](Visualization/chart_2.1.png)
 
+> **Analysis Result:** Analysis Result: Total transactions: 3.24M ₼ — Deposits: 1.55M ₼ (188 accounts), Withdrawals: 1.68M ₼ (205 accounts).
+
 ---
 
 ### **Question 2:** Number of transactions and total amount per customer.
 *SQL Script:* [Task 2](Scripts/task_2.2.sql)  
 
 *Visualization:* ![](Visualization/chart_2.2.png)
+
+> **Analysis Result:** 5–8 transactions → highest amounts. 10+ transactions → few but high-value. 1–3 transactions → many but low-value
 
 ---
 
@@ -219,7 +237,7 @@ This project focuses on analyzing and visualizing banking data to provide action
 ### **Bonus 1:** Comparison of active vs. closed account balances.
 *SQL Script:* [Bonus 1](Scripts/task_5.1.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_1.5.1.png) ![](Visualization/chart_1.5.png)
 
 ### **Bonus 2:** Largest transaction per customer and date.
 *SQL Script:* [Bonus 2](Scripts/task_5.2.sql)  
