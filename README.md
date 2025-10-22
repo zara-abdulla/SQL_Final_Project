@@ -214,12 +214,16 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 1:** Monthly and yearly transaction counts and amounts.
  *SQL Script:* [Task 1](Scripts/task_3.1.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* 
+![Chart 1](Visualization/chart_3.1.1.JPG)
+![](Visualization/chart_3.1.2.JPG)
+
+---
 
 ### **Question 2:** Monthly deposit vs. withdrawal trend.
 *SQL Script:* [Task 2](Scripts/task_3.2.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_3.2.1.JPG)
 
 ---
 
@@ -263,17 +267,31 @@ Age groups 38-47 and 58-67 are below the average.
 *Visualization:* 
 ![](Visualization/chart_1.5.1.png) ![](Visualization/chart_1.5.png)
 
+---
+
 ### **Bonus 2:** Largest transaction per customer and date.
 *SQL Script:* [Bonus 2](Scripts/task_5.2.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_5.2.JPG)
+
+> **Analysis Result:**  
+> Customer’s **largest transaction** (average: **8,088.05 ₼**)
+
+---
 
 ### **Bonus 3:** Customer segmentation based on balance and transaction count (High, Medium, Low).
 *SQL Script:* [Bonus 3](Scripts/task_5.3.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_5.3.JPG)
+
+> **Analysis Result:**  
+> - **High:** Balance > average, Accounts > 8  
+> - **Medium:** Balance > average, Accounts 5–8  
+> - **Low:** Balance < average, Accounts < 5
+
+---
 
 ### **Bonus 4:** Credit-to-account balance ratio per customer.
 *SQL Script:* [Bonus 4](Scripts/task_5.4.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_5.4.JPG)
