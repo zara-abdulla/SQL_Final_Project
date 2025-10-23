@@ -122,7 +122,8 @@ This project focuses on analyzing and visualizing banking data to provide action
 
 *SQL Script:* [Task 2](Scripts/task_1.2.sql)  
 
-*Visualization:* ![Chart 1](Visualization/chart_1.2.png)
+*Visualization:* <br>
+![Chart 1](Visualization/chart_1.2.png)
 
 > **Analysis Result:**
 Sumqayit is the leader in customer activity and balance. Ganja and Lankaran maintain high balances, Sheki and Mingachevir excel in transaction activity, whereas Baku shows lower metrics in both aspects.
@@ -132,7 +133,8 @@ Sumqayit is the leader in customer activity and balance. Ganja and Lankaran main
  ### **Question 3:** Account count and balance by customer age group. 
  *SQL Script:* [Task 3](Scripts/task_1.3.sql)  
 
-*Visualization:* ![](Visualization/chart_1.3.png)
+*Visualization:* <br>
+![](Visualization/chart_1.3.png)
 
 > **Analysis Result:** Age groups 28-37 and 68-77 are above the average;
 Age groups 38-47 and 58-67 are below the average.
@@ -142,7 +144,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 4:** Top 5 richest customers (top balance).
  *SQL Script:* [Task 4](Scripts/task_1.4.sql)  
 
-*Visualization:* ![](Visualization/chart_1.4.png)
+*Visualization:* <br>
+![](Visualization/chart_1.4.png)
 
 
 
@@ -152,7 +155,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 1:** Total deposits and withdrawals per account.
 *SQL Script:* [Task 1](Scripts/task_2.1.sql)  
 
-*Visualization:* ![](Visualization/chart_2.1.png)
+*Visualization:* <br>
+![](Visualization/chart_2.1.png)
 
 > **Analysis Result:**  
 > - **Total transactions:** 3.24M ₼  
@@ -165,7 +169,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 2:** Number of transactions and total amount per customer.
 *SQL Script:* [Task 2](Scripts/task_2.2.sql)  
 
-*Visualization:* ![](Visualization/chart_2.2.png)
+*Visualization:* <br>
+![](Visualization/chart_2.2.png)
 
 > **Analysis Result:**  
 > - **5–8 transactions:** highest amounts  
@@ -177,7 +182,7 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 3:** Accounts with the highest number of transactions.
 *SQL Script:* [Task 3](Scripts/task_2.3.sql)  
 
-*Visualization:* 
+*Visualization:* <br>
 ![](Visualization/chart_2.3.png)
 ![](Visualization/chart_2.3.1.png)
 
@@ -193,7 +198,7 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 4:** Distribution of transaction types (Deposit, Withdrawal, Transfer).
 *SQL Script:* [Task 4](Scripts/task_2.4.sql)  
 
-*Visualization:* 
+*Visualization:* <br>
 ![](Visualization/chart_2.4.png)
 ![](Visualization/chart_2.4.1.png)
 
@@ -202,7 +207,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 5:** Largest transaction per customer compared to average transaction.
  *SQL Script:* [Task 5](Scripts/task_2.5.sql)  
 
-*Visualization:* ![](Visualization/chart_2.5.png)
+*Visualization:* <br>
+![](Visualization/chart_2.5.png)
 
 > **Analysis Result:**  
 > About **94% of customers** have their largest transaction **above the average transaction amount**.
@@ -214,7 +220,7 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 1:** Monthly and yearly transaction counts and amounts.
  *SQL Script:* [Task 1](Scripts/task_3.1.sql)  
 
-*Visualization:* 
+*Visualization:* <br>
 ![Chart 1](Visualization/chart_3.1.1.JPG)
 ![](Visualization/chart_3.1.2.JPG)
 
@@ -223,7 +229,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 2:** Monthly deposit vs. withdrawal trend.
 *SQL Script:* [Task 2](Scripts/task_3.2.sql)  
 
-*Visualization:* ![](Visualization/chart_3.2.1.JPG)
+*Visualization:* <br>
+![](Visualization/chart_3.2.1.JPG)
 
 ---
 
@@ -276,7 +283,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 6:** First and last credit amounts per customer.
 *SQL Script:* [Task 6](Scripts/task_4.6.sql)  
 
-*Visualization:* ![](Visualization/chart_4.6.png)
+*Visualization:* <br>
+![](Visualization/chart_4.6.png)
 
 ---
 
@@ -293,7 +301,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Bonus 2:** Largest transaction per customer and date.
 *SQL Script:* [Bonus 2](Scripts/task_5.2.sql)  
 
-*Visualization:* ![](Visualization/chart_5.2.JPG)
+*Visualization:* <br>
+![](Visualization/chart_5.2.JPG)
 
 > **Analysis Result:**  
 > Customer’s **largest transaction** (average: **8,088.05 ₼**)
@@ -303,7 +312,8 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Bonus 3:** Customer segmentation based on balance and transaction count (High, Medium, Low).
 *SQL Script:* [Bonus 3](Scripts/task_5.3.sql)  
 
-*Visualization:* ![](Visualization/chart_5.3.JPG)
+*Visualization:* <br>
+![](Visualization/chart_5.3.JPG)
 
 > **Analysis Result:**  
 > - **High:** Balance > average, Accounts > 8  
@@ -315,4 +325,5 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Bonus 4:** Credit-to-account balance ratio per customer.
 *SQL Script:* [Bonus 4](Scripts/task_5.4.sql)  
 
-*Visualization:* ![](Visualization/chart_5.4.JPG)
+*Visualization:* <br>
+![](Visualization/chart_5.4.JPG)
