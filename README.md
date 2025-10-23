@@ -231,32 +231,52 @@ Age groups 38-47 and 58-67 are below the average.
 ### **Question 1:** Total credit per customer.
 *SQL Script:* [Task 1](Scripts/task_4.1.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* <br>
+![](Visualization/chart_4.1.1.png)
+![](Visualization/chart_4.1.2.png)
+
+---
 
 ### **Question 2:** Credit status distribution (Active, Closed, Defaulted).
 *SQL Script:* [Task 2](Scripts/task_4.2.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* <br>
+![](Visualization/chart_4.2.1.png)
+![](Visualization/chart_4.2.2.png)
+
+---
 
 ### **Question 3:** Average monthly credit payment per customer.
 *SQL Script:* [Task 3](Scripts/task_4.3.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* <br>
+![](Visualization/chart_4.3.1.png)
+![](Visualization/chart_4.3.2.png)
+
+---
 
 ### **Question 4:** Profitability analysis based on credit interest.
 *SQL Script:* [Task 4](Scripts/task_4.4.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* <br>
+![](Visualization/chart_4.4.1.png)
+![](Visualization/chart_4.4.2.png)
+
+---
 
 ### **Question 5:** Risky credit ratio by region/city.
 *SQL Script:* [Task 5](Scripts/task_4.5.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* <br>
+![](Visualization/chart_4.5.1.png)
+![](Visualization/chart_4.5.2.png)
+
+---
 
 ### **Question 6:** First and last credit amounts per customer.
 *SQL Script:* [Task 6](Scripts/task_4.6.sql)  
 
-*Visualization:* ![Chart 1](Visualization/)
+*Visualization:* ![](Visualization/chart_4.6.png)
 
 ---
 
@@ -265,8 +285,8 @@ Age groups 38-47 and 58-67 are below the average.
 *SQL Script:* [Bonus 1](Scripts/task_5.1.sql)  
 
 *Visualization:* <br>
-![](Visualization/chart_1.5.1.png)
-![](Visualization/chart_1.5.png)
+![](Visualization/chart_5.1.png)
+![](Visualization/chart_5.1.1.png)
 
 ---
 
